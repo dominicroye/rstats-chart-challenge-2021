@@ -10,7 +10,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 
 ## Table of content
 
-![](figs/chart_challenge_themes_2021.jpg)
+![](figs/topics_ol.png)
 
 |                     |                    |                    | 
 |---------------------|--------------------|--------------------|
