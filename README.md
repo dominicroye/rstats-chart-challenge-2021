@@ -1,7 +1,7 @@
 # 30DayChartChallenge 2021: *#rstats edition*
 
 *A list of charts created for #30DayChartChallenge using #rstats*.
-To learn more about #30DayChartChallenge visit https://twitter.com/30DayChartChall.
+To learn more about #30DayChartChallenge visit https://github.com/Z3tt/30DayChartChallenge_2021 or https://twitter.com/30DayChartChall.
 
 ## How to contribute?
 
