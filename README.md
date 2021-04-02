@@ -53,6 +53,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [rppfeiffer](https://twitter.com/rppfeiffer) - [link](https://twitter.com/rppfeiffer/status/1377839573145956352) - [code](https://t.co/QJoRfItbu2?amp=1)
 - [danoehm](https://twitter.com/danoehm) - [link](https://twitter.com/danoehm/status/1377863587754954756)
 - [cararthompson](https://twitter.com/cararthompson) - [link](https://twitter.com/cararthompson/status/1377664146666315781) - [code](https://github.com/cararthompson/30DayChartChallenge/)
+- [ikashnitsky](https://twitter.com/ikashnitsky) - [link](https://twitter.com/ikashnitsky/status/1377641808998625280) - [code](https://github.com/ikashnitsky/30DayChartChallenge)
 
 
 ## Day 2 - 2021-04-02 | pictogram
