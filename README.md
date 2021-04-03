@@ -60,7 +60,22 @@ Feel free to create a pull request with a link to your chart and code (optional)
 
 <img src="figs/amit_levinsonj.png" width="500">
 
+- [elartedeldato](https://twitter.com/elartedeldato) - [link](https://twitter.com/elartedeldato/status/1377887462714933251)
+- [Amit_Levinson](https://twitter.com/Amit_Levinson) - [link](https://twitter.com/Amit_Levinson/status/1377958980018900993) - [code](https://t.co/XyoSjUmKVe?amp=1)
+- [kllycttn](https://twitter.com/kllycttn) - [link](https://twitter.com/kllycttn/status/1377977958539751427) - [code](https://t.co/WbmzMhBFPN?amp=1)
+- [loreabad6](https://twitter.com/loreabad6) - [link](https://twitter.com/loreabad6/status/1377986635917258757) - [code](https://t.co/Ux5pfJ2mpn?amp=1)
+- [sarahe145](https://twitter.com/sarahe145) - [link](https://twitter.com/sarahe145/status/1378101238772998151) - [code](https://t.co/qfqqHeDDNQ?amp=1)
+- [MBozukova](https://twitter.com/MBozukova) - [link](https://twitter.com/MBozukova/status/1378045452822646788)
+- [danoehm](https://twitter.com/danoehm) - [link](https://twitter.com/danoehm/status/1378253914697461760) - [code](https://t.co/BdHsViSgnw?amp=1)
+- [aswansyahputra_](https://twitter.com/aswansyahputra_) - [link](https://twitter.com/aswansyahputra_/status/1378322820199936001) - [code](https://t.co/BwpMRzaLZB?amp=1)
+- [sianbladon](https://twitter.com/sianbladon) - [link](https://twitter.com/sianbladon/status/1378041698174001153) - [code](https://t.co/y8NQkj702I?amp=1)
+- [cnicault](https://twitter.com/cnicault) - [link](https://twitter.com/cnicault/status/1378061757705519104) - [code](https://t.co/PzP8s1Z9VX?amp=1)
+- [kaiz_p](https://twitter.com/kaiz_p) [link](https://twitter.com/kaiz_p/status/1378164343880122368) - [code](https://t.co/TRLwCrfw1o?amp=1)
+- [tessuheagle](https://twitter.com/tessuheagle) - [link](https://twitter.com/tessuheagle/status/1378077397430329344) - [code](https://t.co/eQMgvjIYOE?amp=1)
+- [kustav_sen](https://twitter.com/kustav_sen) - [link](https://twitter.com/kustav_sen/status/1378366923092631561) - [code](https://t.co/GMaazUy4k1?amp=1)
+- [jakekaupp](https://twitter.com/jakekaupp) - [link](https://twitter.com/jakekaupp/status/1378080685383114755) [code](https://t.co/H0RsYGnw5E?amp=1)
 - [ikashnitsky](https://twitter.com/ikashnitsky) - [link](https://twitter.com/ikashnitsky/status/1378099699698262017) - [code](https://c.xkcd.com/random/comic/)
+- [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1377891912099713031)
 
 ## Day 3 - 2021-04-03 | historical
 
