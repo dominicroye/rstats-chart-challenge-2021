@@ -56,6 +56,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [ikashnitsky](https://twitter.com/ikashnitsky) - [link](https://twitter.com/ikashnitsky/status/1377641808998625280) - [code](https://github.com/ikashnitsky/30DayChartChallenge)
 
 
+
 ## Day 2 - 2021-04-02 | pictogram
 
 <img src="figs/amit_levinsonj.png" width="500">
@@ -76,9 +77,15 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [jakekaupp](https://twitter.com/jakekaupp) - [link](https://twitter.com/jakekaupp/status/1378080685383114755) [code](https://t.co/H0RsYGnw5E?amp=1)
 - [ikashnitsky](https://twitter.com/ikashnitsky) - [link](https://twitter.com/ikashnitsky/status/1378099699698262017) - [code](https://c.xkcd.com/random/comic/)
 - [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1377891912099713031)
+- [mireiacamacho75](https://twitter.com/mireiacamacho75) - [link](https://twitter.com/mireiacamacho75/status/1378050493071638537)
 
 ## Day 3 - 2021-04-03 | historical
 
+<img src="" width="500">
+
+- [elartedeldato](https://twitter.com/elartedeldato) - [link](https://twitter.com/elartedeldato/status/1378288348612165634)
+- [USGS_DataSci](https://twitter.com/USGS_DataSci) - [link](https://twitter.com/USGS_DataSci/status/1378351609239994374)
+- [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1378255283143766020)
 - [ikashnitsky](https://twitter.com/ikashnitsky) - [link](https://twitter.com/ikashnitsky/status/1378251035144245250) - [code](https://github.com/OxfordDemSci/ex2020)
 
 ## Day 4 - 2021-04-04 | magical
