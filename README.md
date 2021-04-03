@@ -58,7 +58,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 
 ## Day 2 - 2021-04-02 | pictogram
 
-- [ikashnitsky](https://twitter.com/ikashnitsky) - [link](https://twitter.com/ikashnitsky/status/1378099699698262017) - [~~code~~](https://c.xkcd.com/random/comic/)
+- [ikashnitsky](https://twitter.com/ikashnitsky) - [link](https://twitter.com/ikashnitsky/status/1378099699698262017) - [code](https://c.xkcd.com/random/comic/)
 
 ## Day 3 - 2021-04-03 | historical
 
