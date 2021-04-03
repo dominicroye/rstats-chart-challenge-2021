@@ -28,7 +28,9 @@ Feel free to create a pull request with a link to your chart and code (optional)
  
 # comparisons
 
-## Day 1 - 2021-04-01 | part-to-whole
+## Day 1 
+
+2021-04-01 | part-to-whole
 
 <img src="figs/d1_cararthompson.jpg" width="500">
 
@@ -57,7 +59,9 @@ Feel free to create a pull request with a link to your chart and code (optional)
 
 
 
-## Day 2 - 2021-04-02 | pictogram
+## Day 2 
+
+2021-04-02 | pictogram
 
 <img src="figs/amit_levinsonj.png" width="500">
 
@@ -77,80 +81,134 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [jakekaupp](https://twitter.com/jakekaupp) - [link](https://twitter.com/jakekaupp/status/1378080685383114755) [code](https://t.co/H0RsYGnw5E?amp=1)
 - [ikashnitsky](https://twitter.com/ikashnitsky) - [link](https://twitter.com/ikashnitsky/status/1378099699698262017) - [code](https://c.xkcd.com/random/comic/)
 - [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1377891912099713031)
-- [mireiacamacho75](https://twitter.com/mireiacamacho75) - [link](https://twitter.com/mireiacamacho75/status/1378050493071638537)
 
-## Day 3 - 2021-04-03 | historical
 
-<img src="" width="500">
+## Day 3 
+
+2021-04-03 | historical
 
 - [elartedeldato](https://twitter.com/elartedeldato) - [link](https://twitter.com/elartedeldato/status/1378288348612165634)
 - [USGS_DataSci](https://twitter.com/USGS_DataSci) - [link](https://twitter.com/USGS_DataSci/status/1378351609239994374)
 - [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1378255283143766020)
 - [ikashnitsky](https://twitter.com/ikashnitsky) - [link](https://twitter.com/ikashnitsky/status/1378251035144245250) - [code](https://github.com/OxfordDemSci/ex2020)
 
-## Day 4 - 2021-04-04 | magical
+## Day 4 
 
-## Day 5 - 2021-04-05 | slope
+2021-04-04 | magical
 
-## Day 6 - 2021-04-06 | experimental
+## Day 5
+
+2021-04-05 | slope
+
+## Day 6
+
+2021-04-06 | experimental
 
 
 # distributions
 
-## Day 7 - 2021-04-07 | physical
+## Day 7 
 
-## Day 8 - 2021-04-08 | animals
+2021-04-07 | physical
 
-## Day 9 - 2021-04-09 | statistics
+## Day 8 
 
-## Day 10 - 2021-04-10 | abstract
+2021-04-08 | animals
 
-## Day 11 - 2021-04-11 | circular
+## Day 9
+
+2021-04-09 | statistics
+
+## Day 10
+
+2021-04-10 | abstract
+
+## Day 11
+
+2021-04-11 | circular
 
 
-## Day 12 - 2021-04-12 | strips
+## Day 12
+
+2021-04-12 | strips
 
 
 # relationships
 
-## Day 13 - 2021-04-13 | correlation
+## Day 13
 
-## Day 14 - 2021-04-14 | space
+2021-04-13 | correlation
 
-## Day 15 - 2021-04-15 | multivariate
+## Day 14
 
-## Day 16 - 2021-04-16 | trees
+2021-04-14 | space
 
-## Day 17 - 2021-04-17 | pop culture
+## Day 15
 
-## Day 18 - 2021-04-18 | connections
+2021-04-15 | multivariate
+
+## Day 16
+
+2021-04-16 | trees
+
+## Day 17
+
+2021-04-17 | pop culture
+
+## Day 18
+
+2021-04-18 | connections
 
 
 # timeseries
 
-## Day 19 - 2021-04-19 | global change
+## Day 19
 
-## Day 20 - 2021-04-20 | upwards
+2021-04-19 | global change
 
-## Day 21 - 2021-04-21 | downwards
+## Day 20
 
-## Day 22 - 2021-04-22 | animation
+2021-04-20 | upwards
 
-## Day 23 - 2021-04-23 | tiles
+## Day 21
 
-## Day 24 - 2021-04-24 | monochrome
+2021-04-21 | downwards
+
+## Day 22
+
+2021-04-22 | animation
+
+## Day 23
+
+2021-04-23 | tiles
+
+## Day 24
+
+2021-04-24 | monochrome
 
 
 # uncertainties
 
-## Day 25 - 2021-04-25 | demographic
+## Day 25
 
-## Day 26 - 2021-04-26 | trends
+2021-04-25 | demographic
 
-## Day 27 - 2021-04-27 | educational
+## Day 26
 
-## Day 28 - 2021-04-28 | future
+2021-04-26 | trends
 
-## Day 29 - 2021-04-29 | deviations
+## Day 27
 
-## Day 30 - 2021-04-30 | 3D
+2021-04-27 | educational
+
+## Day 28
+
+2021-04-28 | future
+
+## Day 29
+
+2021-04-29 | deviations
+
+## Day 30
+
+2021-04-30 | 3D
