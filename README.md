@@ -56,6 +56,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [danoehm](https://twitter.com/danoehm) - [link](https://twitter.com/danoehm/status/1377863587754954756)
 - [cararthompson](https://twitter.com/cararthompson) - [link](https://twitter.com/cararthompson/status/1377664146666315781) - [code](https://github.com/cararthompson/30DayChartChallenge/)
 - [ikashnitsky](https://twitter.com/ikashnitsky) - [link](https://twitter.com/ikashnitsky/status/1377641808998625280) - [code](https://github.com/ikashnitsky/30DayChartChallenge)
+- - [CedScherer](https://twitter.com/CedScherer) - [link](https://twitter.com/CedScherer/status/1378332574876061700/photo/1) - [code](https://github.com/Z3tt/30DayChartChallenge/blob/main/03_historical/03_historical.R)
 
 
 
