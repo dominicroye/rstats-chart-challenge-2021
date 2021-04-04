@@ -80,7 +80,6 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [tessuheagle](https://twitter.com/tessuheagle) - [link](https://twitter.com/tessuheagle/status/1378077397430329344) - [code](https://t.co/eQMgvjIYOE?amp=1)
 - [kustav_sen](https://twitter.com/kustav_sen) - [link](https://twitter.com/kustav_sen/status/1378366923092631561) - [code](https://t.co/GMaazUy4k1?amp=1)
 - [jakekaupp](https://twitter.com/jakekaupp) - [link](https://twitter.com/jakekaupp/status/1378080685383114755) [code](https://t.co/H0RsYGnw5E?amp=1)
-- [ikashnitsky](https://twitter.com/ikashnitsky) - [link](https://twitter.com/ikashnitsky/status/1378099699698262017) - [code](https://c.xkcd.com/random/comic/)
 - [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1377891912099713031)
 - [FGazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1378514839593746436) - [code](https://t.co/HPP371uD8i?amp=1)
 
