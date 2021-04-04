@@ -32,7 +32,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 
 2021-04-01 | part-to-whole
 
-<img src="figs/d1_cararthompson.jpg" width="500">
+<img src="figs/cararthompson_day1.jpg" width="500">
 
 - [kllycttn](https://twitter.com/kllycttn) - [link](https://twitter.com/kllycttn/status/1377731024105443337) - [code](https://t.co/bNPOpynnvE?amp=1)
 - [MarcosFontela](https://twitter.com/MarcosFontela) - [link](https://twitter.com/MarcosFontela/status/1377751255393665031)
@@ -64,7 +64,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 
 2021-04-02 | pictogram
 
-<img src="figs/amit_levinsonj.png" width="500">
+<img src="figs/amit_levinsonj_day2.png" width="500">
 
 - [elartedeldato](https://twitter.com/elartedeldato) - [link](https://twitter.com/elartedeldato/status/1377887462714933251)
 - [Amit_Levinson](https://twitter.com/Amit_Levinson) - [link](https://twitter.com/Amit_Levinson/status/1377958980018900993) - [code](https://t.co/XyoSjUmKVe?amp=1)
@@ -87,6 +87,8 @@ Feel free to create a pull request with a link to your chart and code (optional)
 ## Day 3 
 
 2021-04-03 | historical
+
+<img src="figs/kelly_cotton_day3.jpg" width="500">
 
 - [elartedeldato](https://twitter.com/elartedeldato) - [link](https://twitter.com/elartedeldato/status/1378288348612165634)
 - [USGS_DataSci](https://twitter.com/USGS_DataSci) - [link](https://twitter.com/USGS_DataSci/status/1378351609239994374)
