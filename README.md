@@ -82,6 +82,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [jakekaupp](https://twitter.com/jakekaupp) - [link](https://twitter.com/jakekaupp/status/1378080685383114755) [code](https://t.co/H0RsYGnw5E?amp=1)
 - [ikashnitsky](https://twitter.com/ikashnitsky) - [link](https://twitter.com/ikashnitsky/status/1378099699698262017) - [code](https://c.xkcd.com/random/comic/)
 - [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1377891912099713031)
+- [FGazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1378514839593746436) - [code](https://t.co/HPP371uD8i?amp=1)
 
 
 ## Day 3 
@@ -90,6 +91,16 @@ Feel free to create a pull request with a link to your chart and code (optional)
 
 <img src="figs/kelly_cotton_day3.jpg" width="500">
 
+- [MBozukova](https://twitter.com/MBozukova) - [link](https://twitter.com/MBozukova/status/1378401998983335941)
+- [kaiz_p](https://twitter.com/kaiz_p) - [link](https://twitter.com/kaiz_p/status/1378514233906753539) - [code](https://t.co/KgluDLv4n4?amp=1)
+- [loreabad6](https://twitter.com/loreabad6) - [link](https://twitter.com/loreabad6/status/1378456893765615620) - [code](https://t.co/323sifhI2z?amp=1)
+- [marcin_stepniak](https://twitter.com/marcin_stepniak) - [link](https://twitter.com/marcin_stepniak/status/1378414980085784580) - [code](https://t.co/84QlxO1CRJ?amp=1)
+- [j_marlier](https://twitter.com/j_marlier) - [link](https://twitter.com/j_marlier/status/1378437771212288008) - [code](https://t.co/at0QyGcOqO?amp=1)
+- [CSHoggard](https://twitter.com/CSHoggard) - [link](https://twitter.com/CSHoggard/status/1378464065702535170?s=20) - [code](https://t.co/6qafWL7n4B?amp=1)
+- [kllycttn](https://twitter.com/kllycttn) - [link](https://twitter.com/kllycttn/status/1378403349628866568) - [code](https://t.co/jdPUvDgF8Q?amp=1)
+- [ijeamaka_a](https://twitter.com/ijeamaka_a) - [link](https://twitter.com/ijeamaka_a/status/1378437873137905665) - [code](https://t.co/8iEmbXYyXc?amp=1)
+- [geokaramanis](https://twitter.com/geokaramanis) - [link](https://twitter.com/geokaramanis/status/1378432185917661187) - [code](https://t.co/CIjXlHV1PR?amp=1)
+- [cnicault](https://twitter.com/cnicault) - [link](https://twitter.com/cnicault/status/1378673876171907076) - [code](https://t.co/PzP8s1Z9VX?amp=1)
 - [elartedeldato](https://twitter.com/elartedeldato) - [link](https://twitter.com/elartedeldato/status/1378288348612165634)
 - [USGS_DataSci](https://twitter.com/USGS_DataSci) - [link](https://twitter.com/USGS_DataSci/status/1378351609239994374)
 - [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1378255283143766020)
@@ -98,6 +109,11 @@ Feel free to create a pull request with a link to your chart and code (optional)
 ## Day 4 
 
 2021-04-04 | magical
+
+- [kustav_sen](https://twitter.com/kustav_sen) - [link](https://twitter.com/kustav_sen/status/1378636480877264899) - [code](https://t.co/xzPBSQKOmc?amp=1)
+- [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1378624024549453825)
+- [elartedeldato](https://twitter.com/elartedeldato) - [link](https://twitter.com/elartedeldato/status/1378620604291588100)
+- [GaryLynch94](https://twitter.com/GaryLynch94) - [link](https://twitter.com/GaryLynch94/status/1378693652273377280)
 
 ## Day 5
 
