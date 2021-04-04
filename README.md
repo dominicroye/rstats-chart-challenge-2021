@@ -104,6 +104,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [USGS_DataSci](https://twitter.com/USGS_DataSci) - [link](https://twitter.com/USGS_DataSci/status/1378351609239994374)
 - [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1378255283143766020)
 - [ikashnitsky](https://twitter.com/ikashnitsky) - [link](https://twitter.com/ikashnitsky/status/1378251035144245250) - [code](https://github.com/OxfordDemSci/ex2020)
+- [CedScherer](https://twitter.com/CedScherer) - [link](https://twitter.com/CedScherer/status/1378332574876061700) - [code](https://github.com/Z3tt/30DayChartChallenge/blob/main/03_historical/03_historical.R)
 
 ## Day 4 
 
@@ -113,6 +114,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1378624024549453825)
 - [elartedeldato](https://twitter.com/elartedeldato) - [link](https://twitter.com/elartedeldato/status/1378620604291588100)
 - [GaryLynch94](https://twitter.com/GaryLynch94) - [link](https://twitter.com/GaryLynch94/status/1378693652273377280)
+- [CedScherer](https://twitter.com/CedScherer) - [link](https://twitter.com/CedScherer/status/1378766149811322885) - [code](https://github.com/Z3tt/30DayChartChallenge/blob/main/04_magical/04_magical.R)
 
 ## Day 5
 
