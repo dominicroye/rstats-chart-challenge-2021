@@ -109,6 +109,11 @@ Feel free to create a pull request with a link to your chart and code (optional)
 
 2021-04-04 | magical
 
+<img src="figs/kaustav_sen_day4.jpg" width="500">
+
+- [tessuheagle](https://twitter.com/tessuheagle) - [link](https://twitter.com/tessuheagle/status/1378858272917086214?s=20) - [ijeamaka_a](https://twitter.com/ijeamaka_a) - [link](https://twitter.com/ijeamaka_a/status/1378765143023046658?s=20) - [code](https://t.co/7XS45iwHYA?amp=1)
+- [kllycttn](https://twitter.com/kllycttn)  - [link](https://twitter.com/kllycttn/status/1378758942650728449?s=20) - [code](https://t.co/jhBdHF9SIQ?amp=1)
+- [francisko_r](https://twitter.com/francisko_r) - [link](https://twitter.com/francisko_r/status/1378734767965888515?s=20) - [code](https://t.co/D5woJJppll?amp=1)
 - [kustav_sen](https://twitter.com/kustav_sen) - [link](https://twitter.com/kustav_sen/status/1378636480877264899) - [code](https://t.co/xzPBSQKOmc?amp=1)
 - [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1378624024549453825)
 - [elartedeldato](https://twitter.com/elartedeldato) - [link](https://twitter.com/elartedeldato/status/1378620604291588100)
@@ -118,6 +123,10 @@ Feel free to create a pull request with a link to your chart and code (optional)
 ## Day 5
 
 2021-04-05 | slope
+
+- [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1378997788248317955?s=20)
+- [elartedeldato](https://twitter.com/elartedeldato) - [link](https://twitter.com/elartedeldato/status/1378974687292624897?s=20)
+- [geokaramanis](https://twitter.com/geokaramanis) - [link](https://twitter.com/geokaramanis/status/1378933521583120390?s=20) - [code](https://t.co/CIjXlHV1PR?amp=1)
 
 ## Day 6
 
