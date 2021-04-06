@@ -127,6 +127,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1378997788248317955?s=20)
 - [elartedeldato](https://twitter.com/elartedeldato) - [link](https://twitter.com/elartedeldato/status/1378974687292624897?s=20)
 - [geokaramanis](https://twitter.com/geokaramanis) - [link](https://twitter.com/geokaramanis/status/1378933521583120390?s=20) - [code](https://t.co/CIjXlHV1PR?amp=1)
+- [CedScherer](https://twitter.com/CedScherer) - [link](https://twitter.com/i/timeline) - [code](https://github.com/Z3tt/30DayChartChallenge/blob/main/05_slope/05_slope.R)
 
 ## Day 6
 
