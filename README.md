@@ -127,22 +127,27 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [geokaramanis](https://twitter.com/geokaramanis) - [link](https://twitter.com/geokaramanis/status/1378933521583120390?s=20) - [code](https://t.co/CIjXlHV1PR?amp=1)
 - [ikashnitsky](https://twitter.com/ikashnitsky) - [link](https://twitter.com/ikashnitsky/status/1379025851317161985) - [code](https://github.com/ikashnitsky/30DayChartChallenge/blob/main/scr/05-slope-best-life-expectancy.R)
 - [CedScherer](https://twitter.com/CedScherer) - [link](https://twitter.com/i/timeline) - [code](https://github.com/Z3tt/30DayChartChallenge/blob/main/05_slope/05_slope.R)
+- [kllycttn](https://twitter.com/kllycttn) - [link](https://twitter.com/kllycttn/status/1379030480658518026) - [code](https://t.co/G0WaWEgrI0?amp=1)
+
 
 ## Day 6
 
 2021-04-06 | experimental
 
 - [ikashnitsky](https://twitter.com/ikashnitsky) - [link](https://twitter.com/ikashnitsky/status/1379316226267156481) - [code](https://github.com/ikashnitsky/30DayChartChallenge/blob/main/scr/06-experiment.R)
+- [kllycttn](https://twitter.com/kllycttn) - [link](https://twitter.com/kllycttn/status/1379461958668279809) - [code](https://t.co/d6yYwbW1NG?amp=1)
 
 # distributions
 
 ## Day 7 
 
 2021-04-07 | physical
+- [kllycttn](https://twitter.com/kllycttn) - [link](https://twitter.com/kllycttn/status/1379906267813122048) - [code](https://t.co/5dnMAMWNpE?amp=1)
 
 ## Day 8 
 
 2021-04-08 | animals
+- [kllycttn](https://twitter.com/kllycttn) - [link](https://twitter.com/kllycttn/status/1380180239733641223) - [code](https://t.co/txFZYVOLIg?amp=1)
 
 ## Day 9
 
