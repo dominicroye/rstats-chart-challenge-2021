@@ -39,24 +39,31 @@ Feel free to create a pull request with a link to your chart and code (optional)
 
 2021-04-02 | pictogram
 
-
+![pictogram](/day2/covid19_icu.png)
 
 ## Day 3 
 
 2021-04-03 | historical
 
+![historical](/day3/Covid19_deaths.png)
 
 ## Day 4 
 
 2021-04-04 | magical
 
+![magical](/day4/magick.png)
+
 ## Day 5
 
 2021-04-05 | slope
 
+![slope](/day5/tidytuesday_slope.png)
+
 ## Day 6
 
 2021-04-06 | experimental
+
+![experimental](/day6/Experiment_day6.png)
 
 
 # distributions
