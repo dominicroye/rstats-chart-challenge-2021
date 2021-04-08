@@ -12,16 +12,17 @@ Feel free to create a pull request with a link to your chart and code (optional)
 
 ![](figs/topics_ol.png)
 
-|                 |                   |                   |                   |                   |
-|-----------------|-------------------|-------------------|-------------------|-------------------|
-| [Day 1](#day-1) | [Day 7](#day-7)   | [Day 13](#day-13) | [Day 19](#day-19) | [Day 25](#day-25) |
-| [Day 2](#day-2) | [Day 8](#day-8)   | [Day 14](#day-14) | [Day 20](#day-20) | [Day 26](#day-26) |
-| [Day 3](#day-3) | [Day 9](#day-9)   | [Day 15](#day-15) | [Day 21](#day-21) | [Day 27](#day-27) |
-| [Day 4](#day-4) | [Day 10](#day-10) | [Day 16](#day-16) | [Day 22](#day-22) | [Day 28](#day-28) |
-| [Day 5](#day-5) | [Day 11](#day-11) | [Day 17](#day-17) | [Day 23](#day-23) | [Day 29](#day-29) |
-| [Day 6](#day-6) | [Day 12](#day-12) | [Day 18](#day-18) | [Day 24](#day-24) | [Day 30](#day-30) |
 
- 
+|                            |                         |                            |                             |                           |
+|----------------------------|-------------------------|----------------------------|-----------------------------|---------------------------|
+| [01 part-to-whole](#day-1) | [07 physical](#day-7)   | [13 correlation](#day-13)  | [19 global change](#day-19) | [25 demographic](#day-25) |
+| [02 pictogram](#day-2)     | [08 animals](#day-8)    | [14 space](#day-14)        | [20 upwards](#day-20)       | [26 trends](#day-26)      |
+| [03 historical](#day-3)    | [09 statistics](#day-9) | [15 multivariate](#day-15) | [21 downwards](#day-21)     | [27 educational](#day-27) |
+| [04 magical](#day-4)       | [10 abstract](#day-10)  | [16 trees](#day-16)        | [22 animation](#day-22)     | [28 future](#day-28)      |
+| [05 slope](#day-5)         | [11 circular](#day-11)  | [17 pop culture](#day-17)  | [23 tiles](#day-23)         | [29 deviations](#day-29)  |
+| [06 experimental](#day-6)  | [12 strips](#day-12)    | [18 connections](#day-18)  | [24 monochrome](#day-24)    | [30 3D](#day-30)          |
+
+
 # comparisons
 
 ## Day 1 
