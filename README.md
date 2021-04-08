@@ -23,7 +23,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 
 
  
-# my contributions [Twitter account](https://twitter.com/fgazzelloni)
+# my contributions [Twitter: @fgazzelloni](https://twitter.com/fgazzelloni)
 
 ## Day 1 
 
