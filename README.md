@@ -53,6 +53,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [danoehm](https://twitter.com/danoehm) - [link](https://twitter.com/danoehm/status/1377863587754954756)
 - [cararthompson](https://twitter.com/cararthompson) - [link](https://twitter.com/cararthompson/status/1377664146666315781) - [code](https://github.com/cararthompson/30DayChartChallenge/)
 - [ikashnitsky](https://twitter.com/ikashnitsky) - [link](https://twitter.com/ikashnitsky/status/1377641808998625280) - [code](https://github.com/ikashnitsky/30DayChartChallenge)
+[Rami_Krispin](https://twitter.com/Rami_Krispin) - [link](https://twitter.com/Rami_Krispin/status/1377658556095160325) - [code](https://github.com/RamiKrispin/30DayChartChallenge/tree/main/day1)
 
 
 
@@ -78,7 +79,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [jakekaupp](https://twitter.com/jakekaupp) - [link](https://twitter.com/jakekaupp/status/1378080685383114755) [code](https://t.co/H0RsYGnw5E?amp=1)
 - [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1377891912099713031)
 - [FGazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1378514839593746436) - [code](https://t.co/HPP371uD8i?amp=1)
-
+[Rami_Krispin](https://twitter.com/Rami_Krispin) - [link](https://twitter.com/Rami_Krispin/status/1378061546375368704) - [code](https://github.com/RamiKrispin/30DayChartChallenge/tree/main/day2)
 
 ## Day 3 
 
@@ -101,6 +102,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1378255283143766020)
 - [ikashnitsky](https://twitter.com/ikashnitsky) - [link](https://twitter.com/ikashnitsky/status/1378251035144245250) - [code](https://github.com/OxfordDemSci/ex2020)
 - [CedScherer](https://twitter.com/CedScherer) - [link](https://twitter.com/CedScherer/status/1378332574876061700) - [code](https://github.com/Z3tt/30DayChartChallenge/blob/main/03_historical/03_historical.R)
+- [Rami_Krispin](https://twitter.com/Rami_Krispin) - [link](https://twitter.com/Rami_Krispin/status/1378325144930643973) - [code](https://github.com/RamiKrispin/30DayChartChallenge/tree/main/day3)
 
 ## Day 4 
 
@@ -117,6 +119,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [GaryLynch94](https://twitter.com/GaryLynch94) - [link](https://twitter.com/GaryLynch94/status/1378693652273377280)
 - [CedScherer](https://twitter.com/CedScherer) - [link](https://twitter.com/CedScherer/status/1378766149811322885) - [code](https://github.com/Z3tt/30DayChartChallenge/blob/main/04_magical/04_magical.R)
 - [ikashnitsky](https://twitter.com/ikashnitsky) - [link](https://twitter.com/ikashnitsky/status/1378673154730647555) - [code](https://github.com/ikashnitsky/30DayChartChallenge/blob/main/scr/04-magic.R)
+- [Rami_Krispin](https://twitter.com/Rami_Krispin) - [link](https://twitter.com/Rami_Krispin/status/1378693915629383682) - [code](https://github.com/RamiKrispin/30DayChartChallenge/tree/main/day4)
 
 ## Day 5
 
@@ -128,6 +131,8 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [ikashnitsky](https://twitter.com/ikashnitsky) - [link](https://twitter.com/ikashnitsky/status/1379025851317161985) - [code](https://github.com/ikashnitsky/30DayChartChallenge/blob/main/scr/05-slope-best-life-expectancy.R)
 - [CedScherer](https://twitter.com/CedScherer) - [link](https://twitter.com/i/timeline) - [code](https://github.com/Z3tt/30DayChartChallenge/blob/main/05_slope/05_slope.R)
 - [kllycttn](https://twitter.com/kllycttn) - [link](https://twitter.com/kllycttn/status/1379030480658518026) - [code](https://t.co/G0WaWEgrI0?amp=1)
+- [Rami_Krispin](https://twitter.com/Rami_Krispin) - [link](https://twitter.com/Rami_Krispin/status/1378325144930643973) - [code](https://github.com/RamiKrispin/30DayChartChallenge/tree/main/day5)
+- [Rami_Krispin](https://twitter.com/Rami_Krispin) - [link](https://twitter.com/Rami_Krispin/status/1379079234069491714) - [code](https://github.com/RamiKrispin/30DayChartChallenge/tree/main/day5)
 
 
 ## Day 6
@@ -136,6 +141,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 
 - [ikashnitsky](https://twitter.com/ikashnitsky) - [link](https://twitter.com/ikashnitsky/status/1379316226267156481) - [code](https://github.com/ikashnitsky/30DayChartChallenge/blob/main/scr/06-experiment.R)
 - [kllycttn](https://twitter.com/kllycttn) - [link](https://twitter.com/kllycttn/status/1379461958668279809) - [code](https://t.co/d6yYwbW1NG?amp=1)
+- [Rami_Krispin](https://twitter.com/Rami_Krispin) - [link](https://twitter.com/Rami_Krispin/status/1379797036837470208) - [code](https://github.com/RamiKrispin/30DayChartChallenge/tree/main/day6)
 
 # distributions
 
@@ -143,11 +149,13 @@ Feel free to create a pull request with a link to your chart and code (optional)
 
 2021-04-07 | physical
 - [kllycttn](https://twitter.com/kllycttn) - [link](https://twitter.com/kllycttn/status/1379906267813122048) - [code](https://t.co/5dnMAMWNpE?amp=1)
+- [Rami_Krispin](https://twitter.com/Rami_Krispin) - [link](https://twitter.com/Rami_Krispin/status/1380193838359191552) - [code](https://github.com/RamiKrispin/30DayChartChallenge/tree/main/day7)
 
 ## Day 8 
 
 2021-04-08 | animals
 - [kllycttn](https://twitter.com/kllycttn) - [link](https://twitter.com/kllycttn/status/1380180239733641223) - [code](https://t.co/txFZYVOLIg?amp=1)
+- [Rami_Krispin](https://twitter.com/Rami_Krispin) - [link](https://twitter.com/Rami_Krispin/status/1380278153524875264) - [code](https://github.com/RamiKrispin/30DayChartChallenge/tree/main/day8)
 
 ## Day 9
 
