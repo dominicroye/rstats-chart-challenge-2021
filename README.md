@@ -125,6 +125,8 @@ Feel free to create a pull request with a link to your chart and code (optional)
 
 2021-04-05 | slope
 
+<img src="figs/ljeamaka_day5.jpg" width="500">
+
 - [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1378997788248317955?s=20)
 - [elartedeldato](https://twitter.com/elartedeldato) - [link](https://twitter.com/elartedeldato/status/1378974687292624897?s=20)
 - [geokaramanis](https://twitter.com/geokaramanis) - [link](https://twitter.com/geokaramanis/status/1378933521583120390?s=20) - [code](https://t.co/CIjXlHV1PR?amp=1)
@@ -132,30 +134,69 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [CedScherer](https://twitter.com/CedScherer) - [link](https://twitter.com/i/timeline) - [code](https://github.com/Z3tt/30DayChartChallenge/blob/main/05_slope/05_slope.R)
 - [kllycttn](https://twitter.com/kllycttn) - [link](https://twitter.com/kllycttn/status/1379030480658518026) - [code](https://t.co/G0WaWEgrI0?amp=1)
 - [Rami_Krispin](https://twitter.com/Rami_Krispin) - [link](https://twitter.com/Rami_Krispin/status/1378325144930643973) - [code](https://github.com/RamiKrispin/30DayChartChallenge/tree/main/day5)
-- [Rami_Krispin](https://twitter.com/Rami_Krispin) - [link](https://twitter.com/Rami_Krispin/status/1379079234069491714) - [code](https://github.com/RamiKrispin/30DayChartChallenge/tree/main/day5)
-
+- [ijeamaka_a](https://twitter.com/ijeamaka_a) - [link](https://twitter.com/ijeamaka_a/status/1379101904823676931?s=20) - [code](https://t.co/lJZ5rAuJge?amp=1)
+- [emilmalta](https://twitter.com/emilmalta) - [link](https://twitter.com/emilmalta/status/1379908748475514886?s=20) - [code](https://t.co/GH59KonPEJ?amp=1)
+- [cnicault](https://twitter.com/cnicault) - [link](https://twitter.com/cnicault/status/1379079892457943048?s=20) - [code](https://t.co/YzIkqPiebi?amp=1)
+- [Amit_Levinson](https://twitter.com/Amit_Levinson) - [link](https://twitter.com/Amit_Levinson/status/1379172884367691779?s=20) - [code](https://t.co/TY6gnAxsSV?amp=1)
 
 ## Day 6
 
 2021-04-06 | experimental
 
+<img src="figs/jakekaupp_Day6.jpg" width="500">
+
 - [ikashnitsky](https://twitter.com/ikashnitsky) - [link](https://twitter.com/ikashnitsky/status/1379316226267156481) - [code](https://github.com/ikashnitsky/30DayChartChallenge/blob/main/scr/06-experiment.R)
 - [kllycttn](https://twitter.com/kllycttn) - [link](https://twitter.com/kllycttn/status/1379461958668279809) - [code](https://t.co/d6yYwbW1NG?amp=1)
 - [Rami_Krispin](https://twitter.com/Rami_Krispin) - [link](https://twitter.com/Rami_Krispin/status/1379797036837470208) - [code](https://github.com/RamiKrispin/30DayChartChallenge/tree/main/day6)
+- [jakekaup](https://twitter.com/jakekaupp) - [link](https://twitter.com/jakekaupp/status/1379606812849270784?s=20) - [code](https://t.co/1BhlhPnYyC?amp=1)
+- [desuc](https://twitter.com/desuc_) - [link](https://twitter.com/desuc_/status/1379624655074512896?s=20)
+- [claudiodanielpc](https://twitter.com/claudiodanielpc) - [link](https://twitter.com/claudiodanielpc/status/1379505105255419917?s=20) - [code](https://t.co/ZIG2khrSpq?amp=1)
+- [emilmalta](https://twitter.com/emilmalta) - [link](https://twitter.com/emilmalta/status/1380278376661983232?s=20) - [code](https://t.co/uqAJqvjuXi?amp=1)
+- [AndyBridger](https://twitter.com/AndyBridger) - [link](https://twitter.com/AndyBridger/status/1380415182128615426?s=20) - [code](https://t.co/QT83LxBU06?amp=1)
+- [elartedeldato](https://twitter.com/elartedeldato) - [link](https://twitter.com/elartedeldato/status/1379333803655618561?s=20)
+- [JuliaMuellerFr](https://twitter.com/JuliaMuellerFr) - [link](https://twitter.com/JuliaMuellerFr/status/1379528721086971908?s=20)
+- [ijeamaka_a](https://twitter.com/ijeamaka_a) - [link](https://twitter.com/ijeamaka_a/status/1379493271806771203?s=20) - [code](https://t.co/SeS4c2oU9V?amp=1)
+- [CedScherer](https://twitter.com/CedScherer) - [link](https://twitter.com/CedScherer/status/1379493675684786185?s=20) - [code](https://t.co/mC4egFicAk?amp=1)
 
 # distributions
 
 ## Day 7 
 
 2021-04-07 | physical
+
+<img src="figs/marcinstepniak_day7.png" width="500">
+
+- [ingrid_zoll](https://twitter.com/ingrid_zoll) - [link](https://twitter.com/ingrid_zoll/status/1379961069670526985?s=20) - [code](https://t.co/GuAZ1MecjP?amp=1)
+- [quite_grey](https://twitter.com/quite_grey) - [link](https://twitter.com/quite_grey/status/1379742590501847041?s=20) - 
+- [elartedeldato](https://twitter.com/elartedeldato) - [link](https://twitter.com/elartedeldato/status/1379696946466549760?s=20)
+- [MaiaPelletier](https://twitter.com/MaiaPelletier) - [link](https://twitter.com/MaiaPelletier/status/1379969094745743360?s=20) - [code](https://t.co/Mva9yiZerH?amp=1)
+- [ijeamaka_a](https://twitter.com/ijeamaka_a) - [link](https://twitter.com/ijeamaka_a/status/1379990234054545414?s=20) - [code](https://t.co/B47VWPM67k?amp=1)
+- [kllycttn](https://twitter.com/kllycttn) - [link](https://twitter.com/kllycttn/status/1379906267813122048?s=20) - [code](https://t.co/5dnMAMWNpE?amp=1)
+- [JuliaMuellerFr](https://twitter.com/JuliaMuellerFr) - [link](https://twitter.com/JuliaMuellerFr/status/1380094972540694528?s=20) - [code](https://t.co/3ztlYBV2tw?amp=1)
+- [cnicault](https://twitter.com/cnicault) - [link](https://twitter.com/cnicault/status/1380258965964124169?s=20) - [code](https://t.co/YzIkqPiebi?amp=1)
+- [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1379720071233351680?s=20)
 - [kllycttn](https://twitter.com/kllycttn) - [link](https://twitter.com/kllycttn/status/1379906267813122048) - [code](https://t.co/5dnMAMWNpE?amp=1)
 - [Rami_Krispin](https://twitter.com/Rami_Krispin) - [link](https://twitter.com/Rami_Krispin/status/1380193838359191552) - [code](https://github.com/RamiKrispin/30DayChartChallenge/tree/main/day7)
+- [marcin_stepniak](https://twitter.com/marcin_stepniak) - [link](https://twitter.com/marcin_stepniak/status/1379914929654919178?s=20) [code](https://t.co/DxD5APUUro?amp=1)
 
 ## Day 8 
 
 2021-04-08 | animals
+
+<img src="figs/elartedeldato_day8.jpg" width="500">
+
+- [li_bennett_](https://twitter.com/li_bennett_) - [link](https://twitter.com/li_bennett_/status/1380087241062682628?s=20) - [code](https://t.co/MYUGHW7Otw?amp=1)
+- [sianbladon](https://twitter.com/sianbladon) - [link](https://twitter.com/sianbladon/status/1380091653218840577?s=20) - [code](https://t.co/oVfTfNJBXL?amp=1)
+- [cararthompson](https://twitter.com/cararthompson) - [link](https://twitter.com/cararthompson/status/1380135260667662337?s=20) - [code](https://t.co/niAVpmJCRY?amp=1)
+- [kllycttn](https://twitter.com/kllycttn) - [link](https://twitter.com/kllycttn/status/1380180239733641223?s=20) - [code](https://t.co/txFZYVOLIg?amp=1)
+- [MBozukova](https://twitter.com/MBozukova) - [link](https://twitter.com/MBozukova/status/1380229786149216256?s=20)
+- [drtimschoof](https://twitter.com/drtimschoof) - [link](https://twitter.com/drtimschoof/status/1380211403815055368?s=20) - [code](https://t.co/ewylZn79TS?amp=1)
+- [Rami_Krispin](https://twitter.com/Rami_Krispin) - [link](https://twitter.com/Rami_Krispin/status/1380278153524875264?s=20) - [code](https://t.co/GaSzOTMbjd?amp=1)
+- [geokaramaanis](https://twitter.com/geokaramanis) - [link](https://twitter.com/geokaramanis/status/1380246983886188551?s=20) - [code](https://t.co/HNQp92tVWd?amp=1)
+- [elartedeldato](https://twitter.com/elartedeldato) - [link](https://twitter.com/elartedeldato/status/1380064181437759489?s=20)
 - [kllycttn](https://twitter.com/kllycttn) - [link](https://twitter.com/kllycttn/status/1380180239733641223) - [code](https://t.co/txFZYVOLIg?amp=1)
 - [Rami_Krispin](https://twitter.com/Rami_Krispin) - [link](https://twitter.com/Rami_Krispin/status/1380278153524875264) - [code](https://github.com/RamiKrispin/30DayChartChallenge/tree/main/day8)
+- [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1380184219046019072?s=20)
 
 ## Day 9
 
