@@ -53,7 +53,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [danoehm](https://twitter.com/danoehm) - [link](https://twitter.com/danoehm/status/1377863587754954756)
 - [cararthompson](https://twitter.com/cararthompson) - [link](https://twitter.com/cararthompson/status/1377664146666315781) - [code](https://github.com/cararthompson/30DayChartChallenge/)
 - [ikashnitsky](https://twitter.com/ikashnitsky) - [link](https://twitter.com/ikashnitsky/status/1377641808998625280) - [code](https://github.com/ikashnitsky/30DayChartChallenge)
-[Rami_Krispin](https://twitter.com/Rami_Krispin) - [link](https://twitter.com/Rami_Krispin/status/1377658556095160325) - [code](https://github.com/RamiKrispin/30DayChartChallenge/tree/main/day1)
+- [Rami_Krispin](https://twitter.com/Rami_Krispin) - [link](https://twitter.com/Rami_Krispin/status/1377658556095160325) - [code](https://github.com/RamiKrispin/30DayChartChallenge/tree/main/day1)
 
 
 
@@ -79,7 +79,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [jakekaupp](https://twitter.com/jakekaupp) - [link](https://twitter.com/jakekaupp/status/1378080685383114755) [code](https://t.co/H0RsYGnw5E?amp=1)
 - [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1377891912099713031)
 - [FGazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1378514839593746436) - [code](https://t.co/HPP371uD8i?amp=1)
-[Rami_Krispin](https://twitter.com/Rami_Krispin) - [link](https://twitter.com/Rami_Krispin/status/1378061546375368704) - [code](https://github.com/RamiKrispin/30DayChartChallenge/tree/main/day2)
+- [Rami_Krispin](https://twitter.com/Rami_Krispin) - [link](https://twitter.com/Rami_Krispin/status/1378061546375368704) - [code](https://github.com/RamiKrispin/30DayChartChallenge/tree/main/day2)
 
 ## Day 3 
 
