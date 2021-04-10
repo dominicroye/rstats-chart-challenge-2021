@@ -202,6 +202,8 @@ Feel free to create a pull request with a link to your chart and code (optional)
 
 2021-04-09 | statistics
 
+ [Rami_Krispin](https://twitter.com/Rami_Krispin) - [link](https://twitter.com/Rami_Krispin/status/1380917158146797569) - [code](https://github.com/RamiKrispin/30DayChartChallenge/tree/main/day9)
+
 ## Day 10
 
 2021-04-10 | abstract
