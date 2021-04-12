@@ -54,7 +54,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [cararthompson](https://twitter.com/cararthompson) - [link](https://twitter.com/cararthompson/status/1377664146666315781) - [code](https://github.com/cararthompson/30DayChartChallenge/)
 - [ikashnitsky](https://twitter.com/ikashnitsky) - [link](https://twitter.com/ikashnitsky/status/1377641808998625280) - [code](https://github.com/ikashnitsky/30DayChartChallenge)
 - [Rami_Krispin](https://twitter.com/Rami_Krispin) - [link](https://twitter.com/Rami_Krispin/status/1377658556095160325) - [code](https://github.com/RamiKrispin/30DayChartChallenge/tree/main/day1)
-- [Federica Gazzelloni](https://twitter.com/fgazzelloni) - [link](https://twitter.com/FGazzelloni/status/1378224536123011072) - [code](https://github.com/Fgazzelloni/TidyTuesday/blob/main/w14/The_pudding_w14.Rmd)
+- [fgazzelloni](https://twitter.com/fgazzelloni) - [link](https://twitter.com/FGazzelloni/status/1378224536123011072) - [code](https://github.com/Fgazzelloni/TidyTuesday/blob/main/w14/The_pudding_w14.Rmd)
 
 
 ## Day 2 
@@ -78,7 +78,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [kustav_sen](https://twitter.com/kustav_sen) - [link](https://twitter.com/kustav_sen/status/1378366923092631561) - [code](https://t.co/GMaazUy4k1?amp=1)
 - [jakekaupp](https://twitter.com/jakekaupp) - [link](https://twitter.com/jakekaupp/status/1378080685383114755) [code](https://t.co/H0RsYGnw5E?amp=1)
 - [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1377891912099713031)
-- [Federica Gazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1378514839593746436) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/blob/main/day2/covid19_icu.R)
+- [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1378514839593746436) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/blob/main/day2/covid19_icu.R)
 - [Rami_Krispin](https://twitter.com/Rami_Krispin) - [link](https://twitter.com/Rami_Krispin/status/1378061546375368704) - [code](https://github.com/RamiKrispin/30DayChartChallenge/tree/main/day2)
 
 ## Day 3 
@@ -103,7 +103,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [ikashnitsky](https://twitter.com/ikashnitsky) - [link](https://twitter.com/ikashnitsky/status/1378251035144245250) - [code](https://github.com/OxfordDemSci/ex2020)
 - [CedScherer](https://twitter.com/CedScherer) - [link](https://twitter.com/CedScherer/status/1378332574876061700) - [code](https://github.com/Z3tt/30DayChartChallenge/blob/main/03_historical/03_historical.R)
 - [Rami_Krispin](https://twitter.com/Rami_Krispin) - [link](https://twitter.com/Rami_Krispin/status/1378325144930643973) - [code](https://github.com/RamiKrispin/30DayChartChallenge/tree/main/day3)
-- [Federica Gazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1378862160894427138) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/blob/main/day3/map_dataViz.R)
+- [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1378862160894427138) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/blob/main/day3/map_dataViz.R)
 
 ## Day 4 
 
@@ -121,7 +121,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [CedScherer](https://twitter.com/CedScherer) - [link](https://twitter.com/CedScherer/status/1378766149811322885) - [code](https://github.com/Z3tt/30DayChartChallenge/blob/main/04_magical/04_magical.R)
 - [ikashnitsky](https://twitter.com/ikashnitsky) - [link](https://twitter.com/ikashnitsky/status/1378673154730647555) - [code](https://github.com/ikashnitsky/30DayChartChallenge/blob/main/scr/04-magic.R)
 - [Rami_Krispin](https://twitter.com/Rami_Krispin) - [link](https://twitter.com/Rami_Krispin/status/1378693915629383682) - [code](https://github.com/RamiKrispin/30DayChartChallenge/tree/main/day4)
-- [Federica Gazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1379468063523897347) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/blob/main/day4/day4.R)
+- [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1379468063523897347) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/blob/main/day4/day4.R)
 
 ## Day 5
 
@@ -140,7 +140,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [emilmalta](https://twitter.com/emilmalta) - [link](https://twitter.com/emilmalta/status/1379908748475514886?s=20) - [code](https://t.co/GH59KonPEJ?amp=1)
 - [cnicault](https://twitter.com/cnicault) - [link](https://twitter.com/cnicault/status/1379079892457943048?s=20) - [code](https://t.co/YzIkqPiebi?amp=1)
 - [Amit_Levinson](https://twitter.com/Amit_Levinson) - [link](https://twitter.com/Amit_Levinson/status/1379172884367691779?s=20) - [code](https://t.co/TY6gnAxsSV?amp=1)
-- [Federica Gazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1379745725752471552) - [code](https://github.com/Fgazzelloni/TidyTuesday/blob/main/w15/w15_forest_fire.R)
+- [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1379745725752471552) - [code](https://github.com/Fgazzelloni/TidyTuesday/blob/main/w15/w15_forest_fire.R)
 
 ## Day 6
 
@@ -160,7 +160,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [JuliaMuellerFr](https://twitter.com/JuliaMuellerFr) - [link](https://twitter.com/JuliaMuellerFr/status/1379528721086971908?s=20)
 - [ijeamaka_a](https://twitter.com/ijeamaka_a) - [link](https://twitter.com/ijeamaka_a/status/1379493271806771203?s=20) - [code](https://t.co/SeS4c2oU9V?amp=1)
 - [CedScherer](https://twitter.com/CedScherer) - [link](https://twitter.com/CedScherer/status/1379493675684786185?s=20) - [code](https://t.co/mC4egFicAk?amp=1)
-- [Federica Gazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1380108357458083843) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/blob/main/day6/experiment.R)
+- [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1380108357458083843) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/blob/main/day6/experiment.R)
 
 # distributions
 
@@ -182,7 +182,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [kllycttn](https://twitter.com/kllycttn) - [link](https://twitter.com/kllycttn/status/1379906267813122048) - [code](https://t.co/5dnMAMWNpE?amp=1)
 - [Rami_Krispin](https://twitter.com/Rami_Krispin) - [link](https://twitter.com/Rami_Krispin/status/1380193838359191552) - [code](https://github.com/RamiKrispin/30DayChartChallenge/tree/main/day7)
 - [marcin_stepniak](https://twitter.com/marcin_stepniak) - [link](https://twitter.com/marcin_stepniak/status/1379914929654919178?s=20) [code](https://t.co/DxD5APUUro?amp=1)
-- [Federica Gazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1380299887078694913) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/blob/main/day7/phisycs_day7.R)
+- [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1380299887078694913) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/blob/main/day7/phisycs_day7.R)
 
 ## Day 8 
 
@@ -202,13 +202,13 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [kllycttn](https://twitter.com/kllycttn) - [link](https://twitter.com/kllycttn/status/1380180239733641223) - [code](https://t.co/txFZYVOLIg?amp=1)
 - [Rami_Krispin](https://twitter.com/Rami_Krispin) - [link](https://twitter.com/Rami_Krispin/status/1380278153524875264) - [code](https://github.com/RamiKrispin/30DayChartChallenge/tree/main/day8)
 - [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1380184219046019072?s=20)
-- [Federica Gazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1380301094077620225) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/blob/main/day8/Animals_day8.R)
+- [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1380301094077620225) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/blob/main/day8/Animals_day8.R)
 
 ## Day 9
 
 2021-04-09 | statistics
 
-- [Federica Gazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1380635599183478785) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/blob/main/day9/Statistics_day9.R)
+- [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1380635599183478785) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/blob/main/day9/Statistics_day9.R)
 
 ## Day 10
 
