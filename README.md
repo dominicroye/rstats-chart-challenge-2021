@@ -55,6 +55,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [ikashnitsky](https://twitter.com/ikashnitsky) - [link](https://twitter.com/ikashnitsky/status/1377641808998625280) - [code](https://github.com/ikashnitsky/30DayChartChallenge)
 - [Rami_Krispin](https://twitter.com/Rami_Krispin) - [link](https://twitter.com/Rami_Krispin/status/1377658556095160325) - [code](https://github.com/RamiKrispin/30DayChartChallenge/tree/main/day1)
 - [fgazzelloni](https://twitter.com/fgazzelloni) - [link](https://twitter.com/FGazzelloni/status/1378224536123011072) - [code](https://github.com/Fgazzelloni/TidyTuesday/blob/main/w14/The_pudding_w14.Rmd)
+- [Muhammad Aswan Syahputra](https://twitter.com/aswansyahputra_) - [link](https://twitter.com/aswansyahputra_/status/1377822611464355851) - [code](https://github.com/aswansyahputra/30daychartchallenge/blob/master/01-part_to_whole.R)
 
 
 ## Day 2 
@@ -80,6 +81,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1377891912099713031)
 - [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1378514839593746436) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/blob/main/day2_pictogram/covid19_icu.R)
 - [Rami_Krispin](https://twitter.com/Rami_Krispin) - [link](https://twitter.com/Rami_Krispin/status/1378061546375368704) - [code](https://github.com/RamiKrispin/30DayChartChallenge/tree/main/day2)
+- [Muhammad Aswan Syahputra](https://twitter.com/aswansyahputra_) - [link](https://twitter.com/aswansyahputra_/status/1378322820199936001) - [code](https://github.com/aswansyahputra/30daychartchallenge/blob/master/02-pictogram.R)
 
 ## Day 3 
 
@@ -104,6 +106,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [CedScherer](https://twitter.com/CedScherer) - [link](https://twitter.com/CedScherer/status/1378332574876061700) - [code](https://github.com/Z3tt/30DayChartChallenge/blob/main/03_historical/03_historical.R)
 - [Rami_Krispin](https://twitter.com/Rami_Krispin) - [link](https://twitter.com/Rami_Krispin/status/1378325144930643973) - [code](https://github.com/RamiKrispin/30DayChartChallenge/tree/main/day3)
 - [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1378862160894427138) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/blob/main/day3_historical/map_dataViz.R)
+- [Muhammad Aswan Syahputra](https://twitter.com/aswansyahputra_) - [link](https://twitter.com/aswansyahputra_/status/1379078394705440770) - [code](https://github.com/aswansyahputra/30daychartchallenge/blob/master/03-historical.R)
 
 ## Day 4 
 
@@ -122,6 +125,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [ikashnitsky](https://twitter.com/ikashnitsky) - [link](https://twitter.com/ikashnitsky/status/1378673154730647555) - [code](https://github.com/ikashnitsky/30DayChartChallenge/blob/main/scr/04-magic.R)
 - [Rami_Krispin](https://twitter.com/Rami_Krispin) - [link](https://twitter.com/Rami_Krispin/status/1378693915629383682) - [code](https://github.com/RamiKrispin/30DayChartChallenge/tree/main/day4)
 - [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1379468063523897347) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/blob/main/day4_magical/day4.R)
+- [Muhammad Aswan Syahputra](https://twitter.com/aswansyahputra_) - [link](https://twitter.com/aswansyahputra_/status/1379479247056642065) - [code](https://github.com/aswansyahputra/30daychartchallenge/blob/master/04-magical.R)
 
 ## Day 5
 
@@ -141,6 +145,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [cnicault](https://twitter.com/cnicault) - [link](https://twitter.com/cnicault/status/1379079892457943048?s=20) - [code](https://t.co/YzIkqPiebi?amp=1)
 - [Amit_Levinson](https://twitter.com/Amit_Levinson) - [link](https://twitter.com/Amit_Levinson/status/1379172884367691779?s=20) - [code](https://t.co/TY6gnAxsSV?amp=1)
 - [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1379745725752471552) - [code](https://github.com/Fgazzelloni/TidyTuesday/blob/main/w15/w15_forest_fire.R)
+- [Muhammad Aswan Syahputra](https://twitter.com/aswansyahputra_) - [link](https://twitter.com/aswansyahputra_/status/1381110406194728961) - [code](https://github.com/aswansyahputra/30daychartchallenge/blob/master/05-slope.R)
 
 ## Day 6
 
@@ -161,6 +166,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [ijeamaka_a](https://twitter.com/ijeamaka_a) - [link](https://twitter.com/ijeamaka_a/status/1379493271806771203?s=20) - [code](https://t.co/SeS4c2oU9V?amp=1)
 - [CedScherer](https://twitter.com/CedScherer) - [link](https://twitter.com/CedScherer/status/1379493675684786185?s=20) - [code](https://t.co/mC4egFicAk?amp=1)
 - [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1380108357458083843) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/blob/main/day6_experimental/experiment.R)
+- [Muhammad Aswan Syahputra](https://twitter.com/aswansyahputra_) - [link](https://twitter.com/aswansyahputra_/status/1381476055081349123) - [code](https://github.com/aswansyahputra/30daychartchallenge/blob/master/06-experimental.R)
 
 # distributions
 
