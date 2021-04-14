@@ -236,9 +236,13 @@ Feel free to create a pull request with a link to your chart and code (optional)
 
 2021-04-13 | correlation
 
+- [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1382194260569694209) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/tree/main/day13_correlation)
+
 ## Day 14
 
 2021-04-14 | space
+
+- [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1382471905182167040) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/blob/main/day14_space/w16.R)
 
 ## Day 15
 
