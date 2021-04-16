@@ -335,6 +335,21 @@ Feel free to create a pull request with a link to your chart and code (optional)
 
 2021-04-15 | multivariate
 
+<img src="figs/juvenal_campos_day15.jpg" width="500">
+
+- [juvenalcamposf](https://twitter.com/JuvenalCamposF) - [link](https://twitter.com/JuvenalCamposF/status/1382934103708770306?s=20) - [code](https://t.co/K0VDm4DleY?amp=1)
+- [desuc_](https://twitter.com/desuc_) - [link](https://twitter.com/desuc_/status/1382744875569983491?s=20) - [code](https://t.co/44ex7iwa4r?amp=1)
+- [geokaramanis](https://twitter.com/geokaramanis) - [link](https://twitter.com/geokaramanis/status/1382738002426859521?s=20) - [code](https://t.co/HNQp92tVWd?amp=1)
+- [cararthompson](https://twitter.com/cararthompson) - [link](https://twitter.com/cararthompson/status/1382802222115917833?s=20) - [code](https://t.co/IXo0BOumah?amp=1)
+- [mbozukova](https://twitter.com/MBozukova) - [link](https://twitter.com/MBozukova/status/1382744681382039554?s=20)
+- [jakekaupp](https://twitter.com/jakekaupp) - [link](https://twitter.com/jakekaupp/status/1382891612838244358?s=20) - [code](https://t.co/H0RsYGnw5E?amp=1)
+- [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1382697193568624644?s=20)
+- [sianbladon](https://twitter.com/sianbladon) - [link](https://twitter.com/sianbladon/status/1382716034457739265?s=20) - [code](https://t.co/2WjKaCU1rv?amp=1) 
+- [juliamuellersfr](https://twitter.com/JuliaMuellerFr) - [link](https://twitter.com/JuliaMuellerFr/status/1382785716971835399?s=20) - [code](https://t.co/70aeIxCIEF?amp=1)
+- [luisfreii](https://twitter.com/Luisfreii) - [link](https://twitter.com/Luisfreii/status/1382743427893370881?s=20) - [code](https://t.co/PSC0FSTv81?amp=1)
+- [ryanplain](https://twitter.com/RyanPlain) - [link](https://twitter.com/RyanPlain/status/1382825301739069441?s=20) - [code](https://t.co/V72K0nDwLI?amp=1)
+- [elartedeldato](https://twitter.com/elartedeldato) - [link](https://twitter.com/elartedeldato/status/1382610353775898628?s=20)
+
 ## Day 16
 
 2021-04-16 | trees
