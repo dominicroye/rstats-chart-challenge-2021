@@ -310,6 +310,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [usgs_datasci](https://twitter.com/USGS_DataSci) - [link](https://twitter.com/USGS_DataSci/status/1382392034724564993?s=20)
 - [kaiz_p](https://twitter.com/kaiz_p) - [link](https://twitter.com/kaiz_p/status/1382094107313463296?s=20) - [code](https://t.co/ZatVxApk6A?amp=1)
 - [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1382194260569694209) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/tree/main/day13_correlation)
+- [a_bagaini](https://twitter.com/a_bagaini) - [link](https://twitter.com/a_bagaini/status/1383335798792081410?s=20) - [code](https://t.co/WfH7MZNrsL?amp=1)
 
 ## Day 14
 
@@ -355,7 +356,19 @@ Feel free to create a pull request with a link to your chart and code (optional)
 
 2021-04-16 | trees
 
+<img src="figs/denise_osullivan_day16.png" width="500">
+
 - [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1383194512810467335) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/blob/main/day16_tree/tree_day16.R)
+- [dosullivan019](https://twitter.com/dosullivan019) - [link](https://twitter.com/dosullivan019/status/1383278239255187458?s=20) [code](https://t.co/PGyXhxJEUC?amp=1)
+- [cnicault](https://twitter.com/cnicault) - [link](https://twitter.com/cnicault/status/1383136072062877696?s=20) - [code](https://t.co/YzIkqPiebi?amp=1)
+- [geokaramanis](https://twitter.com/geokaramanis) - [link](https://twitter.com/geokaramanis/status/1383131304884064256?s=20) - [code](https://t.co/HNQp92tVWd?amp=1)
+- [cedscherer](https://twitter.com/CedScherer) - [link](https://twitter.com/CedScherer/status/1383126000444260357?s=20)
+- [mbozukova](https://twitter.com/MBozukova) - [link](https://twitter.com/MBozukova/status/1383125695635804161?s=20)
+- [elartedeldato](https://twitter.com/elartedeldato) - [link](https://twitter.com/elartedeldato/status/1383115558233763840?s=20)
+- [dpz_jga](https://twitter.com/DPZ_JGA) - [link](https://twitter.com/DPZ_JGA/status/1383053211007848448?s=20)
+- [cararthompson](https://twitter.com/cararthompson) - [link](https://twitter.com/cararthompson/status/1382961701683875841?s=20) - [code](https://t.co/TCXzjBWgAk?amp=1)
+- [ingrid_zoll](https://twitter.com/ingrid_zoll) - [link](https://twitter.com/ingrid_zoll/status/1379961069670526985?s=20) - [code](https://t.co/GuAZ1MecjP?amp=1)
+
 
 ## Day 17
 
