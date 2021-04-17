@@ -355,6 +355,8 @@ Feel free to create a pull request with a link to your chart and code (optional)
 
 2021-04-16 | trees
 
+- [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1383194512810467335) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/blob/main/day16_tree/tree_day16.R)
+
 ## Day 17
 
 2021-04-17 | pop culture
