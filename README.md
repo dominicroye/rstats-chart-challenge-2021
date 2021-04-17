@@ -349,6 +349,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [luisfreii](https://twitter.com/Luisfreii) - [link](https://twitter.com/Luisfreii/status/1382743427893370881?s=20) - [code](https://t.co/PSC0FSTv81?amp=1)
 - [ryanplain](https://twitter.com/RyanPlain) - [link](https://twitter.com/RyanPlain/status/1382825301739069441?s=20) - [code](https://t.co/V72K0nDwLI?amp=1)
 - [elartedeldato](https://twitter.com/elartedeldato) - [link](https://twitter.com/elartedeldato/status/1382610353775898628?s=20)
+- [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1382758597042569216) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/blob/main/day15_multivariate/multivariate_day15.R)
 
 ## Day 16
 
