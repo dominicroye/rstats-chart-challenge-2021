@@ -374,6 +374,10 @@ Feel free to create a pull request with a link to your chart and code (optional)
 
 2021-04-17 | pop culture
 
+- [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1383480815917535234) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/blob/main/day17_pop_culture/Pop_culture_day17.R)
+
+
+
 ## Day 18
 
 2021-04-18 | connections
