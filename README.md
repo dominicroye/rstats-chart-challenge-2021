@@ -374,7 +374,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 
 2021-04-17 | pop culture
 
-<img src="figs/" width="500">
+<img src="figs/brian_weinstein_day17.jpg" width="500">
 
 - [cedscherer](https://twitter.com/CedScherer) - [link](https://twitter.com/CedScherer/status/1383438991920287746?s=20)
 - [geokaramanis](https://twitter.com/geokaramanis) - [link](https://twitter.com/geokaramanis/status/1383447010234175488?s=20) - [code](https://t.co/HNQp92ckxD?amp=1)
@@ -386,13 +386,14 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [aarora79](https://twitter.com/aarora79) - [link](https://twitter.com/aarora79/status/1383621262912544769?s=20) - [code](https://t.co/GaGnZf5i3e?amp=1)
 - [cararthompson](https://twitter.com/cararthompson) - [link](https://twitter.com/cararthompson/status/1383329510645329925?s=20) - [code](https://t.co/fU2ox1bWOI?amp=1)
 - [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1383480815917535234) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/blob/main/day17_pop_culture/Pop_culture_day17.R)
+- [brimaster3000](https://twitter.com/BriMaster3000) - [link](https://twitter.com/BriMaster3000/status/1383834592155635718?s=20) - [code](https://t.co/uvs83JRkDJ?amp=1)
 
 
 ## Day 18
 
 2021-04-18 | connections
 
-<img src="figs/" width="500">
+<img src="figs/ingrid_zoll_day18.jpg" width="500">
 
 - [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1383705164196974593?s=20)
 - [elartedeldato](https://twitter.com/elartedeldato) - [link](https://twitter.com/elartedeldato/status/1383711115528466443?s=20)
