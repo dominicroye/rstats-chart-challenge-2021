@@ -385,6 +385,8 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [elartedeldato](https://twitter.com/elartedeldato) - [link](https://twitter.com/elartedeldato/status/1383335880505511946?s=20) - [code](https://t.co/7hNfLdUcMH?amp=1)
 - [aarora79](https://twitter.com/aarora79) - [link](https://twitter.com/aarora79/status/1383621262912544769?s=20) - [code](https://t.co/GaGnZf5i3e?amp=1)
 - [cararthompson](https://twitter.com/cararthompson) - [link](https://twitter.com/cararthompson/status/1383329510645329925?s=20) - [code](https://t.co/fU2ox1bWOI?amp=1)
+- [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1383480815917535234) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/blob/main/day17_pop_culture/Pop_culture_day17.R)
+
 
 ## Day 18
 
@@ -400,6 +402,8 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [ingrid_zoll](https://twitter.com/ingrid_zoll) - [link](https://twitter.com/ingrid_zoll/status/1383863238325014534?s=20) - [code](https://t.co/U12cy007Eq?amp=1)
 - [luisfreii](https://twitter.com/Luisfreii) - [link](https://twitter.com/Luisfreii/status/1383955222100254723?s=20) - [code](https://t.co/PSC0FTb5Zz?amp=1)
 - [haifabmes](https://twitter.com/haifabmes) - [link](https://twitter.com/haifabmes/status/1383860441579851785?s=20)
+- [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1383885467515453448) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/blob/main/day18_connections/connections_day18.R)
+
 
 
 # timeseries
