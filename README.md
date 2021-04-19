@@ -374,9 +374,32 @@ Feel free to create a pull request with a link to your chart and code (optional)
 
 2021-04-17 | pop culture
 
+<img src="figs/" width="500">
+
+- [cedscherer](https://twitter.com/CedScherer) - [link](https://twitter.com/CedScherer/status/1383438991920287746?s=20)
+- [geokaramanis](https://twitter.com/geokaramanis) - [link](https://twitter.com/geokaramanis/status/1383447010234175488?s=20) - [code](https://t.co/HNQp92ckxD?amp=1)
+- [mbozukova](https://twitter.com/MBozukova) - [link](https://twitter.com/MBozukova/status/1383501821159755776?s=20)
+- [luisfreii](https://twitter.com/Luisfreii) - [link](https://twitter.com/Luisfreii/status/1383591529860591616?s=20) - [code](https://t.co/PSC0FTb5Zz?amp=1)
+- [haifabmes](https://twitter.com/haifabmes) - [link](https://twitter.com/haifabmes/status/1383463761890091009?s=20)
+- [drtimschoof](https://twitter.com/drtimschoof) - [link](https://twitter.com/drtimschoof/status/1383627665135992833?s=20) - [code](https://t.co/lg1mNY8kGu?amp=1)
+- [elartedeldato](https://twitter.com/elartedeldato) - [link](https://twitter.com/elartedeldato/status/1383335880505511946?s=20) - [code](https://t.co/7hNfLdUcMH?amp=1)
+- [aarora79](https://twitter.com/aarora79) - [link](https://twitter.com/aarora79/status/1383621262912544769?s=20) - [code](https://t.co/GaGnZf5i3e?amp=1)
+- [cararthompson](https://twitter.com/cararthompson) - [link](https://twitter.com/cararthompson/status/1383329510645329925?s=20) - [code](https://t.co/fU2ox1bWOI?amp=1)
+
 ## Day 18
 
 2021-04-18 | connections
+
+<img src="figs/" width="500">
+
+- [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1383705164196974593?s=20)
+- [elartedeldato](https://twitter.com/elartedeldato) - [link](https://twitter.com/elartedeldato/status/1383711115528466443?s=20)
+- [emilmalta](https://twitter.com/emilmalta) - [link](https://twitter.com/emilmalta/status/1383789417735725060?s=20) - [code](https://t.co/YaZPnwt3ht?amp=1)
+- [geokaramanis](https://twitter.com/geokaramanis) - [link](https://twitter.com/geokaramanis/status/1383862393810214920?s=20) - [code](https://t.co/HNQp92ckxD?amp=1)
+- [mbozukova](https://twitter.com/MBozukova) - [link](https://twitter.com/MBozukova/status/1383829432658370562?s=20)
+- [ingrid_zoll](https://twitter.com/ingrid_zoll) - [link](https://twitter.com/ingrid_zoll/status/1383863238325014534?s=20) - [code](https://t.co/U12cy007Eq?amp=1)
+- [luisfreii](https://twitter.com/Luisfreii) - [link](https://twitter.com/Luisfreii/status/1383955222100254723?s=20) - [code](https://t.co/PSC0FTb5Zz?amp=1)
+- [haifabmes](https://twitter.com/haifabmes) - [link](https://twitter.com/haifabmes/status/1383860441579851785?s=20)
 
 
 # timeseries
