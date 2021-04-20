@@ -413,6 +413,21 @@ Feel free to create a pull request with a link to your chart and code (optional)
 
 2021-04-19 | global change
 
+<img src="figs/luis_freii_day19.gif" width="500">
+
+- [ikashnitsky](https://twitter.com/ikashnitsky) - [link](https://twitter.com/ikashnitsky/status/1384226781511577613?s=20) - [code](https://t.co/aOI8l105Mf?amp=1)
+- [j_marlier](https://twitter.com/j_marlier) - [link](https://twitter.com/j_marlier/status/1384275248292372480?s=20)
+- [usgs_datasci](https://twitter.com/USGS_DataSci) - [link](https://twitter.com/USGS_DataSci/status/1384210959556767752?s=20) - [code](https://t.co/hW5YFiQhPT?amp=1)
+- [emilmalta](https://twitter.com/emilmalta) - [link](https://twitter.com/ZabinskiDominik/status/1384247238684123141?s=20) - [code](https://t.co/UqOeGOJibn?amp=1)
+- [elartedeldato](https://twitter.com/elartedeldato) - [link](https://twitter.com/elartedeldato/status/1384196253139890178?s=20)
+- [drtimschoof](https://twitter.com/drtimschoof) - [link](https://twitter.com/drtimschoof/status/1384341254788587524?s=20) - [code](https://t.co/qSH3OMxL1z?amp=1)
+- [luisfreii](https://twitter.com/Luisfreii) - [link](https://twitter.com/Luisfreii/status/1384184657239953414?s=20) - [code](https://t.co/PSC0FTb5Zz?amp=1)
+- [geokaramanis](https://twitter.com/geokaramanis) - [link](https://twitter.com/geokaramanis/status/1384371508273942530?s=20) - [code](https://t.co/HNQp92tVWd?amp=1)
+- [cararthompson](https://twitter.com/cararthompson) - [link](https://twitter.com/cararthompson/status/1384129106611097610?s=20) - [code](https://t.co/KPMFOy7Ftd?amp=1)
+- [mbozukova](https://twitter.com/MBozukova) - [link](https://twitter.com/MBozukova/status/1384202942857633794?s=20) 
+- [haifabmes](https://twitter.com/haifabmes) - [link](https://twitter.com/haifabmes/status/1384083020370513923?s=20) 
+
+
 ## Day 20
 
 2021-04-20 | upwards
