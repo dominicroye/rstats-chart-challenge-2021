@@ -248,6 +248,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [jakekaupp](https://twitter.com/jakekaupp) - [link](https://twitter.com/jakekaupp/status/1381064904938029058?s=20) - [code](https://t.co/H0RsYGnw5E?amp=1)
 - [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1380840584525590530?s=20)
 - [elartedeldato](https://twitter.com/elartedeldato) - [link](https://twitter.com/elartedeldato/status/1380780586868957186?s=20)
+- [CedScherer](https://twitter.com/CedScherer) - [link](https://twitter.com/CedScherer/status/1382412141815328772) - [code](https://github.com/Z3tt/30DayChartChallenge/blob/main/10_abstract/10_abstract.R)
 
 ## Day 11
 
@@ -331,6 +332,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [drtimschoof](https://twitter.com/drtimschoof) - [link](https://twitter.com/drtimschoof/status/1382531668414726145?s=20) - [code](https://t.co/VfvRgufOuz?amp=1)
 - [elartedeldato](https://twitter.com/elartedeldato) - [link](https://twitter.com/elartedeldato/status/1382249490544009218?s=20)
 - [emilmalta](https://twitter.com/emilmalta) - [link](https://twitter.com/emilmalta/status/1382630168553009155?s=20) - [code](https://t.co/bCrjENrhGq?amp=1)
+- [CedScherer](https://twitter.com/CedScherer) - [link](https://twitter.com/CedScherer/status/1383367240104378375) - [code](https://github.com/Z3tt/30DayChartChallenge/blob/main/14_space/14_space.R)
 
 ## Day 15
 
@@ -368,6 +370,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [dpz_jga](https://twitter.com/DPZ_JGA) - [link](https://twitter.com/DPZ_JGA/status/1383053211007848448?s=20)
 - [cararthompson](https://twitter.com/cararthompson) - [link](https://twitter.com/cararthompson/status/1382961701683875841?s=20) - [code](https://t.co/TCXzjBWgAk?amp=1)
 - [ingrid_zoll](https://twitter.com/ingrid_zoll) - [link](https://twitter.com/ingrid_zoll/status/1379961069670526985?s=20) - [code](https://t.co/GuAZ1MecjP?amp=1)
+- [CedScherer](https://twitter.com/CedScherer) - [link](https://twitter.com/CedScherer/status/1383126000444260357) - [code](https://github.com/Z3tt/30DayChartChallenge/blob/main/16_trees/16_trees.R)
 
 
 ## Day 17
@@ -387,6 +390,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [cararthompson](https://twitter.com/cararthompson) - [link](https://twitter.com/cararthompson/status/1383329510645329925?s=20) - [code](https://t.co/fU2ox1bWOI?amp=1)
 - [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1383480815917535234) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/blob/main/day17_pop_culture/Pop_culture_day17.R)
 - [brimaster3000](https://twitter.com/BriMaster3000) - [link](https://twitter.com/BriMaster3000/status/1383834592155635718?s=20) - [code](https://t.co/uvs83JRkDJ?amp=1)
+- [CedScherer](https://twitter.com/CedScherer) - [link](https://twitter.com/CedScherer/status/1383438991920287746) - [code](https://github.com/Z3tt/30DayChartChallenge/blob/main/17_pop_culture/17_pop_culture.R)
 
 
 ## Day 18
@@ -426,11 +430,15 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [cararthompson](https://twitter.com/cararthompson) - [link](https://twitter.com/cararthompson/status/1384129106611097610?s=20) - [code](https://t.co/KPMFOy7Ftd?amp=1)
 - [mbozukova](https://twitter.com/MBozukova) - [link](https://twitter.com/MBozukova/status/1384202942857633794?s=20) 
 - [haifabmes](https://twitter.com/haifabmes) - [link](https://twitter.com/haifabmes/status/1384083020370513923?s=20) 
+- [CedScherer](https://twitter.com/CedScherer) - [link](https://twitter.com/CedScherer/status/1384420013533241351) - [code](https://github.com/Z3tt/30DayChartChallenge/blob/main/19_global_change/19_global_change.R)
+
 
 
 ## Day 20
 
 2021-04-20 | upwards
+
+- [CedScherer](https://twitter.com/CedScherer) - [link](https://twitter.com/CedScherer/status/1384555551829463041) - [code](https://github.com/Z3tt/30DayChartChallenge/blob/main/20_upwards/20_upwards.R)
 
 ## Day 21
 
