@@ -432,6 +432,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [haifabmes](https://twitter.com/haifabmes) - [link](https://twitter.com/haifabmes/status/1384083020370513923?s=20) 
 - [CedScherer](https://twitter.com/CedScherer) - [link](https://twitter.com/CedScherer/status/1384420013533241351) - [code](https://github.com/Z3tt/30DayChartChallenge/blob/main/19_global_change/19_global_change.R)
 - [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1384992310497357824) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/blob/main/day19_global_change/global_change_day19.R)
+- [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1384515409366376455?s=20)
 
 
 
@@ -439,12 +440,40 @@ Feel free to create a pull request with a link to your chart and code (optional)
 
 2021-04-20 | upwards
 
+<img src="figs/tim_schoof_day20.jpg" width="500">
+
 - [CedScherer](https://twitter.com/CedScherer) - [link](https://twitter.com/CedScherer/status/1384555551829463041) - [code](https://github.com/Z3tt/30DayChartChallenge/blob/main/20_upwards/20_upwards.R)
 - [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1385023335449436162) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/tree/main/day20_upwards)
+- [drtimschoof](https://twitter.com/drtimschoof) - [link](https://twitter.com/drtimschoof/status/1384726288510996481?s=20) - [code](https://t.co/eNweOYRuAC?amp=1) 
+- [jakekaupp](https://twitter.com/jakekaupp) - [link](https://twitter.com/jakekaupp/status/1384948879578312704?s=20) - [code](https://t.co/1BhlhPnYyC?amp=1)
+- [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1384515409366376455?s=20)
+- [ikashnitsky](https://twitter.com/ikashnitsky) - [link](https://twitter.com/ikashnitsky/status/1384620335564304388?s=20) - [code](https://t.co/gLYWsBDVl9?amp=1)
+- [sianbladon](https://twitter.com/sianbladon) - [link](https://twitter.com/sianbladon/status/1384593678157717527?s=20) - [code](https://t.co/lSGQl1cjWR?amp=1)
+- [haifabmes](https://twitter.com/haifabmes) - [link](https://twitter.com/haifabmes/status/1384515997726609411?s=20)
+- [aarora79](https://twitter.com/aarora79) - [link](https://twitter.com/aarora79/status/1384718948592144386?s=20) - [code](https://t.co/GaGnZfmTrO?amp=1)
+- [elartedeldato](https://twitter.com/elartedeldato) - [link](https://twitter.com/elartedeldato/status/1384624615851429892?s=20)
+- [mbozukova](https://twitter.com/MBozukova) - [link](https://twitter.com/MBozukova/status/1384559379421274119?s=20)
+- [cararthompson](https://twitter.com/cararthompson) - [link](https://twitter.com/cararthompson/status/1384551825467129859?s=20) - [code](https://t.co/UURQbFRbhj?amp=1)
 
 ## Day 21
 
 2021-04-21 | downwards
+
+<img src="figs/amit_arora_day21.jpg" width="500">
+
+- [aarora79](https://twitter.com/aarora79) - [link](https://twitter.com/aarora79/status/1385054709434703873?s=20) - [code](https://t.co/GaGnZfmTrO?amp=1) 
+- [emilmalta](https://twitter.com/emilmalta) - [link](https://twitter.com/emilmalta/status/1385021613708562432?s=20) - [code](https://t.co/zZlbyEJtzE?amp=1)
+- [maxthamt](https://twitter.com/maxthamt) - [link](https://twitter.com/maxthamt/status/1385234880414556166?s=20)
+- [rami_krispin](https://twitter.com/Rami_Krispin) - [link](https://twitter.com/Rami_Krispin/status/1385218220240506882?s=20)
+- [saryace](https://twitter.com/saryace) - [link](https://twitter.com/saryace/status/1385184720548466691?s=20)
+- [drtimschoof](https://twitter.com/drtimschoof) - [link](https://twitter.com/drtimschoof/status/1385082827738337281?s=20) - [code](https://t.co/DGfrmF1KY4?amp=1)
+- [mbozukova](https://twitter.com/MBozukova) - [link](https://twitter.com/MBozukova/status/1384920180019564547?s=20) 
+- [jezzaayt](https://twitter.com/JezzaAyt) - [link](https://twitter.com/JezzaAyt/status/1384939236886040576?s=20)
+- [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1384816263646654465?s=20)
+- [cararthompson](https://twitter.com/cararthompson) - [link](https://twitter.com/cararthompson/status/1384821742313558019?s=20) - [code](https://t.co/7gcaWcURRl?amp=1)
+- [ikashnitsky](https://twitter.com/ikashnitsky) - [link](https://twitter.com/ikashnitsky/status/1384921958110924802?s=20) - [code](https://t.co/xj7X4zslEw?amp=1)ç
+- [j_marlier](https://twitter.com/j_marlier) - [link](https://twitter.com/j_marlier/status/1384909603767558145?s=20)
+
 
 ## Day 22
 
