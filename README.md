@@ -443,7 +443,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 <img src="figs/tim_schoof_day20.jpg" width="500">
 
 - [CedScherer](https://twitter.com/CedScherer) - [link](https://twitter.com/CedScherer/status/1384555551829463041) - [code](https://github.com/Z3tt/30DayChartChallenge/blob/main/20_upwards/20_upwards.R)
-- [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1385023335449436162) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/tree/main/day20_upwards)
+- [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1385023335449436162) - [code](https://github.com/Fgazzelloni/TidyTuesday/blob/main/w17/tidytuesday_w17.R)
 - [drtimschoof](https://twitter.com/drtimschoof) - [link](https://twitter.com/drtimschoof/status/1384726288510996481?s=20) - [code](https://t.co/eNweOYRuAC?amp=1) 
 - [jakekaupp](https://twitter.com/jakekaupp) - [link](https://twitter.com/jakekaupp/status/1384948879578312704?s=20) - [code](https://t.co/1BhlhPnYyC?amp=1)
 - [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1384515409366376455?s=20)
