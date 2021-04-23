@@ -485,7 +485,22 @@ Feel free to create a pull request with a link to your chart and code (optional)
 
 2021-04-22 | animation
 
+<img src="figs/mihaela_bozukova_day22.gif" width="500">
+
 - [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1385381542520840194) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/blob/main/day22_animation/)
+- [emilmalta](https://twitter.com/emilmalta) - [link](https://twitter.com/emilmalta/status/1385402774519701504?s=20) - [code](https://t.co/ed0khrSsy9?amp=1)
+- [saintzainn](https://twitter.com/SaintZainn) - [link](https://twitter.com/SaintZainn/status/1385310099065827329?s=20) - [code](https://t.co/bIcNhnvt5x?amp=1)
+- [sianbladon](https://twitter.com/sianbladon) - [link](https://twitter.com/sianbladon/status/1385330543601066000?s=20) - [code](https://t.co/cIX8BbBPlt?amp=1)
+- [cararthompson](https://twitter.com/cararthompson) - [link](https://twitter.com/cararthompson/status/1385130533403910145?s=20) - [code](https://t.co/8EWqqf2D0V?amp=1)
+- [mbozukova](https://twitter.com/MBozukova) - [link](https://twitter.com/MBozukova/status/1385283194686214146?s=20)
+- [dpz_jga](https://twitter.com/DPZ_JGA) - [link](https://twitter.com/DPZ_JGA/status/1385288207827353601?s=20)
+- [drtimschoof](https://twitter.com/drtimschoof) - [link](https://twitter.com/drtimschoof/status/1385433858968072193?s=20) - [code](https://t.co/LyNN26x6at?amp=1)
+- [dosullivan019](https://twitter.com/dosullivan019) - [link](https://twitter.com/dosullivan019/status/1385501067664715779?s=20) - [code](https://t.co/LTetZFFliG?amp=1)
+- [saintzainn](https://twitter.com/SaintZainn) - [link](https://twitter.com/SaintZainn/status/1385142677155446786?s=20) - [code](https://t.co/rXkUqZtmtY?amp=1)
+- [bjnnowak](https://twitter.com/BjnNowak) - [link](https://twitter.com/BjnNowak/status/1385090646403342341?s=20)
+- [andybridger](https://twitter.com/AndyBridger) - [link](https://twitter.com/AndyBridger/status/1385200522991259649?s=20) - [code](https://t.co/3Z5dZLLADg?amp=1)
+- [j_marlier](https://twitter.com/j_marlier) - [link](https://twitter.com/j_marlier/status/1385257588338667521?s=20) - [code](https://t.co/8fri6vEX6N?amp=1)
+- [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1385540356016586754?s=20)
 
 ## Day 23
 
