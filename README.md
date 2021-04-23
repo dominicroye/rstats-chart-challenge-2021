@@ -228,6 +228,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [mbozukova](https://twitter.com/MBozukova) - [link](https://twitter.com/MBozukova/status/1380609669555752965?s=20)
 - [marcin_stepniak](https://twitter.com/marcin_stepniak) - [link](https://twitter.com/marcin_stepniak/status/1380656315446464512?s=20) - [code](https://t.co/dV6xFtLc5D?amp=1)
 - [rami_krispin](https://twitter.com/Rami_Krispin) - [link](https://twitter.com/Rami_Krispin/status/1380917158146797569?s=20) - [code](https://t.co/TGDUGabKcv?amp=1)
+- [Rami_Krispin](https://twitter.com/Rami_Krispin) - [link](https://twitter.com/Rami_Krispin/status/1380917158146797569) - [code](https://github.com/RamiKrispin/30DayChartChallenge/tree/main/day9)
 
 ## Day 10
 
@@ -249,6 +250,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1380840584525590530?s=20)
 - [elartedeldato](https://twitter.com/elartedeldato) - [link](https://twitter.com/elartedeldato/status/1380780586868957186?s=20)
 - [CedScherer](https://twitter.com/CedScherer) - [link](https://twitter.com/CedScherer/status/1382412141815328772) - [code](https://github.com/Z3tt/30DayChartChallenge/blob/main/10_abstract/10_abstract.R)
+- [Rami_Krispin](https://twitter.com/Rami_Krispin) - [link](https://twitter.com/Rami_Krispin/status/1381811739348541441) - [code](https://github.com/RamiKrispin/30DayChartChallenge/tree/main/day10)
 
 ## Day 11
 
@@ -268,6 +270,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [ijeamaka_a](https://twitter.com/ijeamaka_a) - [link](https://twitter.com/ijeamaka_a/status/1381452504123109380?s=20) - [code](https://t.co/guEAfaHKzu?amp=1)
 - [rami_krispin](https://twitter.com/Rami_Krispin) - [link](https://twitter.com/Rami_Krispin/status/1381614447140040708?s=20) - [code](https://t.co/bipXNDf7jw?amp=1)
 - [maxthamt](https://twitter.com/maxthamt) - [link](https://twitter.com/maxthamt/status/1381323610703429635?s=20)
+- [Rami_Krispin](https://twitter.com/Rami_Krispin) - [link](https://twitter.com/Rami_Krispin/status/1381614447140040708) - [code](https://github.com/RamiKrispin/30DayChartChallenge/tree/main/day11)
 
 ## Day 12
 
@@ -288,7 +291,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [emilmalta](https://twitter.com/emilmalta) - [link](https://twitter.com/emilmalta/status/1381748773488107521?s=20) - [code](https://t.co/SVSW963w3a?amp=1)
 - [cnicault](https://twitter.com/cnicault) - [link](https://twitter.com/cnicault/status/1382343922396061700?s=20) - [code](https://t.co/YzIkqPiebi?amp=1)
 - [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1381567195914862592) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/blob/main/day12_strips/Strips_day12.R)
-
+- [Rami_Krispin](https://twitter.com/Rami_Krispin) - [link](https://twitter.com/Rami_Krispin/status/1382330935195017217) - [code](https://github.com/RamiKrispin/30DayChartChallenge/tree/main/day12)
 
 # relationships
 
@@ -312,6 +315,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [kaiz_p](https://twitter.com/kaiz_p) - [link](https://twitter.com/kaiz_p/status/1382094107313463296?s=20) - [code](https://t.co/ZatVxApk6A?amp=1)
 - [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1382194260569694209) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/tree/main/day13_correlation)
 - [a_bagaini](https://twitter.com/a_bagaini) - [link](https://twitter.com/a_bagaini/status/1383335798792081410?s=20) - [code](https://t.co/WfH7MZNrsL?amp=1)
+- [Rami_Krispin](https://twitter.com/Rami_Krispin) - [link](https://twitter.com/Rami_Krispin/status/1383776805027414025) - [code](https://github.com/RamiKrispin/30DayChartChallenge/tree/main/day13)
 
 ## Day 14
 
@@ -333,6 +337,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [elartedeldato](https://twitter.com/elartedeldato) - [link](https://twitter.com/elartedeldato/status/1382249490544009218?s=20)
 - [emilmalta](https://twitter.com/emilmalta) - [link](https://twitter.com/emilmalta/status/1382630168553009155?s=20) - [code](https://t.co/bCrjENrhGq?amp=1)
 - [CedScherer](https://twitter.com/CedScherer) - [link](https://twitter.com/CedScherer/status/1383367240104378375) - [code](https://github.com/Z3tt/30DayChartChallenge/blob/main/14_space/14_space.R)
+- [Rami_Krispin](https://twitter.com/Rami_Krispin) - [link](https://twitter.com/Rami_Krispin/status/1384851794027847682) - [code](https://github.com/RamiKrispin/30DayChartChallenge/tree/main/day14)
 
 ## Day 15
 
@@ -473,7 +478,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [cararthompson](https://twitter.com/cararthompson) - [link](https://twitter.com/cararthompson/status/1384821742313558019?s=20) - [code](https://t.co/7gcaWcURRl?amp=1)
 - [ikashnitsky](https://twitter.com/ikashnitsky) - [link](https://twitter.com/ikashnitsky/status/1384921958110924802?s=20) - [code](https://t.co/xj7X4zslEw?amp=1)ç
 - [j_marlier](https://twitter.com/j_marlier) - [link](https://twitter.com/j_marlier/status/1384909603767558145?s=20)
-
+- [Rami_Krispin](https://twitter.com/Rami_Krispin) - [link](https://twitter.com/Rami_Krispin/status/1385218220240506882) - [code](https://github.com/RamiKrispin/30DayChartChallenge/tree/main/day21)
 
 ## Day 22
 
