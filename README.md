@@ -436,7 +436,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [mbozukova](https://twitter.com/MBozukova) - [link](https://twitter.com/MBozukova/status/1384202942857633794?s=20) 
 - [haifabmes](https://twitter.com/haifabmes) - [link](https://twitter.com/haifabmes/status/1384083020370513923?s=20) 
 - [CedScherer](https://twitter.com/CedScherer) - [link](https://twitter.com/CedScherer/status/1384420013533241351) - [code](https://github.com/Z3tt/30DayChartChallenge/blob/main/19_global_change/19_global_change.R)
-- [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1384992310497357824) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/blob/main/day19_global_change/global_change_day19.R)
+- [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1385349029349965827) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/blob/main/day19_global_change/global_change_day19.R)
 - [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1384515409366376455?s=20)
 
 
@@ -448,7 +448,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 <img src="figs/tim_schoof_day20.jpg" width="500">
 
 - [CedScherer](https://twitter.com/CedScherer) - [link](https://twitter.com/CedScherer/status/1384555551829463041) - [code](https://github.com/Z3tt/30DayChartChallenge/blob/main/20_upwards/20_upwards.R)
-- [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1385023335449436162) - [code](https://github.com/Fgazzelloni/TidyTuesday/blob/main/w17/tidytuesday_w17.R)
+- [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1385349663948218374) - [code](https://github.com/Fgazzelloni/TidyTuesday/blob/main/w17/tidytuesday_w17.R)
 - [drtimschoof](https://twitter.com/drtimschoof) - [link](https://twitter.com/drtimschoof/status/1384726288510996481?s=20) - [code](https://t.co/eNweOYRuAC?amp=1) 
 - [jakekaupp](https://twitter.com/jakekaupp) - [link](https://twitter.com/jakekaupp/status/1384948879578312704?s=20) - [code](https://t.co/1BhlhPnYyC?amp=1)
 - [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1384515409366376455?s=20)
@@ -478,11 +478,14 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [cararthompson](https://twitter.com/cararthompson) - [link](https://twitter.com/cararthompson/status/1384821742313558019?s=20) - [code](https://t.co/7gcaWcURRl?amp=1)
 - [ikashnitsky](https://twitter.com/ikashnitsky) - [link](https://twitter.com/ikashnitsky/status/1384921958110924802?s=20) - [code](https://t.co/xj7X4zslEw?amp=1)ç
 - [j_marlier](https://twitter.com/j_marlier) - [link](https://twitter.com/j_marlier/status/1384909603767558145?s=20)
+- [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1385347661998530564) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/blob/main/day21_downwards/)
 - [Rami_Krispin](https://twitter.com/Rami_Krispin) - [link](https://twitter.com/Rami_Krispin/status/1385218220240506882) - [code](https://github.com/RamiKrispin/30DayChartChallenge/tree/main/day21)
 
 ## Day 22
 
 2021-04-22 | animation
+
+- [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1385381542520840194) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/blob/main/day22_animation/)
 
 ## Day 23
 
