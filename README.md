@@ -520,6 +520,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [cararthompson](https://twitter.com/cararthompson) - [link](https://twitter.com/cararthompson/status/1385560969380876291?s=20) - [code](https://t.co/NTwZoFQ35d?amp=1)
 - [haifabmes](https://twitter.com/haifabmes) - [code](https://twitter.com/haifabmes/status/1385648935906185217?s=20) 
 - [dosullivan019](https://twitter.com/dosullivan019) - [link](https://twitter.com/dosullivan019/status/1385501718578827273?s=20) - [code](https://t.co/KQo6jnJrpP?amp=1)
+- [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1386102269138018305) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/blob/main/day23_tiles/tiles_day23.R)
 
 
 ## Day 24
