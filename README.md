@@ -526,6 +526,8 @@ Feel free to create a pull request with a link to your chart and code (optional)
 
 2021-04-24 | monochrome
 
+- [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1386135056385777664) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/tree/main/day24_monochrome)
+
 
 # uncertainties
 
