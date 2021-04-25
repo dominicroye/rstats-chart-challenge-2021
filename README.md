@@ -549,6 +549,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 2021-04-25 | demographic
 
 [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1386233326130929666?s=20)  
+- [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1386310841356546051) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/tree/main/day25_demographic)
 
 ## Day 26
 
