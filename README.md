@@ -527,14 +527,27 @@ Feel free to create a pull request with a link to your chart and code (optional)
 
 2021-04-24 | monochrome
 
-- [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1386135056385777664) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/tree/main/day24_monochrome)
+<img src="figs/cara_thompson_day24.jpg" width="500">
 
+- [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1386135056385777664) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/tree/main/day24_monochrome)
+- [claudiodanielpc](https://twitter.com/claudiodanielpc) - [link](https://twitter.com/claudiodanielpc/status/1385952163768143879?s=20) - [code](https://t.co/tYdhyukw1T?amp=1)
+- [maxthamt](https://twitter.com/maxthamt) - [link](https://twitter.com/maxthamt/status/1385997681890373642?s=20) - [code](https://t.co/ubEgO9auHK?amp=1)
+- [sianbladon](https://twitter.com/sianbladon) - [link](https://twitter.com/sianbladon/status/1386030230142439432?s=20)
+- [drtimschoof](https://twitter.com/drtimschoof) - [link](https://twitter.com/drtimschoof/status/1386160646971084800?s=20) - [code](https://t.co/Qzz1LfuVdb?amp=1)
+- [aarora79](https://twitter.com/aarora79) - [link](https://twitter.com/aarora79/status/1386105114163810308?s=20) - [code](https://t.co/GaGnZfmTrO?amp=1)
+- [cararthompson](https://twitter.com/cararthompson) - [link](https://twitter.com/cararthompson/status/1385866097656799233?s=20) - [code](https://t.co/HyeGgf4WWy?amp=1)
+- [databerryau](https://twitter.com/Databerryau) - [link](https://twitter.com/Databerryau/status/1385788306986704901?s=20) 
+- [mbozukova](https://twitter.com/MBozukova) - [link](https://twitter.com/MBozukova/status/1386005350575390724?s=20)
+- [dosullivan019](https://twitter.com/dosullivan019) - [link](https://twitter.com/dosullivan019/status/1385876258383306755?s=20) - [code](https://t.co/3RniUHvVeF?amp=1)
+- [haifabmes](https://twitter.com/haifabmes) - [link](https://twitter.com/haifabmes/status/1386008972335984649?s=20)
 
 # uncertainties
 
 ## Day 25
 
 2021-04-25 | demographic
+
+[dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1386233326130929666?s=20)  
 
 ## Day 26
 
