@@ -548,8 +548,11 @@ Feel free to create a pull request with a link to your chart and code (optional)
 
 2021-04-25 | demographic
 
-[dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1386233326130929666?s=20)  
+- [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1386233326130929666?s=20)  
 - [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1386310841356546051) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/tree/main/day25_demographic)
+- [claudiodanielpc](https://twitter.com/claudiodanielpc) - [link](https://twitter.com/claudiodanielpc/status/1386319836838461447?s=20) - [code](https://t.co/J30TrE8nvX?amp=1)
+- [mbozukova](https://twitter.com/MBozukova) - [link](https://twitter.com/MBozukova/status/1386366371978784768?s=20) 
+- [aarora79](https://twitter.com/aarora79) - [link](https://twitter.com/FGazzelloni/status/1386444989207613440?s=20) - [code](https://t.co/GaGnZfmTrO?amp=1)
 
 ## Day 26
 
