@@ -548,6 +548,8 @@ Feel free to create a pull request with a link to your chart and code (optional)
 
 2021-04-25 | demographic
 
+<img src="figs/paula_casado_day25.jpg" width="500">
+
 - [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1386233326130929666?s=20)  
 - [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1386310841356546051) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/tree/main/day25_demographic)
 - [claudiodanielpc](https://twitter.com/claudiodanielpc) - [link](https://twitter.com/claudiodanielpc/status/1386319836838461447?s=20) - [code](https://t.co/J30TrE8nvX?amp=1)
@@ -559,6 +561,8 @@ Feel free to create a pull request with a link to your chart and code (optional)
 ## Day 26
 
 2021-04-26 | trends
+
+<img src="figs/luis_freites_day26.jpg" width="500">
 
 - [claudiodanielpc](https://twitter.com/claudiodanielpc) - [link](https://twitter.com/claudiodanielpc/status/1386677694881050624?s=20) - [code](https://t.co/vfYIYzd8ZG?amp=1)
 - [elartedeldato](https://twitter.com/elartedeldato) - [link](https://twitter.com/elartedeldato/status/1386732371131650050?s=20)
