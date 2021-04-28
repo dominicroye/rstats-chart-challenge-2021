@@ -572,6 +572,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [aarora79](https://twitter.com/aarora79) - [link](https://twitter.com/aarora79/status/1386882179792359425?s=20) - [code](https://t.co/GaGnZfmTrO?amp=1)
 - [dosullivan019](https://twitter.com/dosullivan019) - [link](https://twitter.com/dosullivan019/status/1386840230620061696?s=20) - [code](https://t.co/FpzlMeLw6w?amp=1)
 - [luisfreii](https://twitter.com/Luisfreii) - [link](https://twitter.com/Luisfreii/status/1386853883587276802?s=20) - [code](https://t.co/PSC0FSTv81?amp=1)
+- [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1387162988155703299) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/tree/main/day26_trends)
 
 
 ## Day 27
