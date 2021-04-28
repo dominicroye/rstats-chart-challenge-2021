@@ -579,7 +579,16 @@ Feel free to create a pull request with a link to your chart and code (optional)
 
 2021-04-27 | educational
 
+<img src="figs/mihaela_bozukova_day27.jpg" width="500">
+
 - [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1386950670557843456?s=20)
+- [aarora79](https://twitter.com/aarora79) - [link](https://twitter.com/aarora79/status/1387223972157210624?s=20) - [code](https://t.co/GaGnZfmTrO?amp=1)
+- [jakekaupp](https://twitter.com/jakekaupp) - [link](https://twitter.com/jakekaupp/status/1387201638771957763?s=20) - [code](https://t.co/H0RsYGnw5E?amp=1)
+- [claudiodanielpc](https://twitter.com/claudiodanielpc) - [link](https://twitter.com/claudiodanielpc/status/1387108564725075968?s=20) - [code](https://t.co/fY7MKYv8rO?amp=1)
+- [mbozukova](https://twitter.com/MBozukova) - [link](https://twitter.com/MBozukova/status/1387094850995118081?s=20)
+- [luisfreii](https://twitter.com/Luisfreii) - [link](https://twitter.com/Luisfreii/status/1387048995982245902?s=20) - [code](https://t.co/PSC0FTb5Zz?amp=1)
+- [andrybridger](https://twitter.com/AndyBridger) - [link](https://twitter.com/AndyBridger/status/1387027685612851204?s=20) - [code](https://t.co/oJBGCcKjlE?amp=1)
+- [elartedeldato](https://twitter.com/elartedeldato) - [link](https://twitter.com/elartedeldato/status/1387010260746084362?s=20)
 
 ## Day 28
 
