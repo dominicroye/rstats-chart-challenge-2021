@@ -589,6 +589,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [luisfreii](https://twitter.com/Luisfreii) - [link](https://twitter.com/Luisfreii/status/1387048995982245902?s=20) - [code](https://t.co/PSC0FTb5Zz?amp=1)
 - [andrybridger](https://twitter.com/AndyBridger) - [link](https://twitter.com/AndyBridger/status/1387027685612851204?s=20) - [code](https://t.co/oJBGCcKjlE?amp=1)
 - [elartedeldato](https://twitter.com/elartedeldato) - [link](https://twitter.com/elartedeldato/status/1387010260746084362?s=20)
+- [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1387544083518869505) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/tree/main/day27_educational)
 
 ## Day 28
 
