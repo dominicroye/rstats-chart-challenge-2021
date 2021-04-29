@@ -595,6 +595,14 @@ Feel free to create a pull request with a link to your chart and code (optional)
 
 2021-04-28 | future
 
+- [mbozukova](https://twitter.com/MBozukova) - [link](https://twitter.com/MBozukova/status/1387457437536555009?s=20)
+- [infometricsnz](https://twitter.com/InfometricsNZ) - [link](https://twitter.com/InfometricsNZ/status/1387254440667672578?s=20)
+- [claudiodanielpc](https://twitter.com/claudiodanielpc) - [link](https://twitter.com/claudiodanielpc/status/1387462319924551687?s=20) - [code](https://t.co/K56jz0bJyz?amp=1c)
+- [sianbladon](https://twitter.com/sianbladon) - [link](https://twitter.com/sianbladon/status/1387504719493533699?s=20) - [code](https://t.co/oZFrwLx3AR?amp=1)
+- [drtimschoof](https://twitter.com/drtimschoof) - [link](https://twitter.com/drtimschoof/status/1387529071547060224?s=20) - [code](https://t.co/QZVF9Ja0Xh?amp=1)
+- [luisfreii](https://twitter.com/Luisfreii) - [link](https://twitter.com/Luisfreii/status/1387533958670426112?s=20) - [code](https://t.co/PSC0FSTv81?amp=1)
+- [aarora79](https://twitter.com/aarora79) - [link](https://twitter.com/aarora79/status/1387607203734069252?s=20) - [code](https://t.co/GaGnZfmTrO?amp=1)
+
 ## Day 29
 
 2021-04-29 | deviations
