@@ -607,6 +607,16 @@ Feel free to create a pull request with a link to your chart and code (optional)
 
 2021-04-29 | deviations
 
+- [claudiodanielpc](https://twitter.com/claudiodanielpc) - [link](https://twitter.com/claudiodanielpc/status/1387835652834738178?s=20) - [code](https://t.co/JiYAbCb0NJ?amp=1)
+- [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1387781167613685765?s=20)
+- [jakekaupp](https://twitter.com/jakekaupp) - [link](https://twitter.com/jakekaupp/status/1387826722465361920?s=20) - [code](https://t.co/H0RsYGnw5E?amp=1)
+- [luisfreii](https://twitter.com/Luisfreii) - [link](https://twitter.com/Luisfreii/status/1387917314251702274?s=20) - [code](https://t.co/PSC0FSTv81?amp=1)
+- [aarora79](https://twitter.com/aarora79) - [link](https://twitter.com/aarora79/status/1387959596371820544?s=20) - [code](https://t.co/GaGnZfmTrO?amp=1)
+- [bjnnowak](https://twitter.com/BjnNowak) - [link](https://twitter.com/BjnNowak/status/1387628289045536769?s=20)
+
 ## Day 30
 
 2021-04-30 | 3D
+
+- [elartedeldato](https://twitter.com/elartedeldato) - [link](https://twitter.com/elartedeldato/status/1388025326320726020?s=20)
+
