@@ -619,4 +619,5 @@ Feel free to create a pull request with a link to your chart and code (optional)
 2021-04-30 | 3D
 
 - [elartedeldato](https://twitter.com/elartedeldato) - [link](https://twitter.com/elartedeldato/status/1388025326320726020?s=20)
+- [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1388536479731826689) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/tree/main/day30_3D)
 
