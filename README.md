@@ -613,6 +613,7 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [luisfreii](https://twitter.com/Luisfreii) - [link](https://twitter.com/Luisfreii/status/1387917314251702274?s=20) - [code](https://t.co/PSC0FSTv81?amp=1)
 - [aarora79](https://twitter.com/aarora79) - [link](https://twitter.com/aarora79/status/1387959596371820544?s=20) - [code](https://t.co/GaGnZfmTrO?amp=1)
 - [bjnnowak](https://twitter.com/BjnNowak) - [link](https://twitter.com/BjnNowak/status/1387628289045536769?s=20)
+- [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1388418356227756032) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/tree/main/day29_deviations)
 
 ## Day 30
 
