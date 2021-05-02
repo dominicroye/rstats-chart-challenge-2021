@@ -595,6 +595,8 @@ Feel free to create a pull request with a link to your chart and code (optional)
 
 2021-04-28 | future
 
+<img src="figs/julia_mueller_day28.png" width="500">
+
 - [mbozukova](https://twitter.com/MBozukova) - [link](https://twitter.com/MBozukova/status/1387457437536555009?s=20)
 - [infometricsnz](https://twitter.com/InfometricsNZ) - [link](https://twitter.com/InfometricsNZ/status/1387254440667672578?s=20)
 - [claudiodanielpc](https://twitter.com/claudiodanielpc) - [link](https://twitter.com/claudiodanielpc/status/1387462319924551687?s=20) - [code](https://t.co/K56jz0bJyz?amp=1c)
@@ -603,10 +605,14 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [luisfreii](https://twitter.com/Luisfreii) - [link](https://twitter.com/Luisfreii/status/1387533958670426112?s=20) - [code](https://t.co/PSC0FSTv81?amp=1)
 - [aarora79](https://twitter.com/aarora79) - [link](https://twitter.com/aarora79/status/1387607203734069252?s=20) - [code](https://t.co/GaGnZfmTrO?amp=1)
 - [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1388241637151752192) - [code](https://github.com/Fgazzelloni/TidyTuesday/tree/main/w18)
+- [juliamuellerfr](https://twitter.com/JuliaMuellerFr) - [link](https://twitter.com/JuliaMuellerFr/status/1388202058298372098?s=20) - [code](https://t.co/hhPY09hVVL?amp=1)
+- [andybridger](https://twitter.com/AndyBridger) - [link](https://twitter.com/AndyBridger/status/1388075818711126018?s=20) - [code](https://t.co/EVLSrlTQTW?amp=1)
 
 ## Day 29
 
 2021-04-29 | deviations
+
+<img src="figs/jakekaupp_Day29.jpg" width="500">
 
 - [claudiodanielpc](https://twitter.com/claudiodanielpc) - [link](https://twitter.com/claudiodanielpc/status/1387835652834738178?s=20) - [code](https://t.co/JiYAbCb0NJ?amp=1)
 - [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1387781167613685765?s=20)
@@ -615,11 +621,20 @@ Feel free to create a pull request with a link to your chart and code (optional)
 - [aarora79](https://twitter.com/aarora79) - [link](https://twitter.com/aarora79/status/1387959596371820544?s=20) - [code](https://t.co/GaGnZfmTrO?amp=1)
 - [bjnnowak](https://twitter.com/BjnNowak) - [link](https://twitter.com/BjnNowak/status/1387628289045536769?s=20)
 - [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1388418356227756032) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/tree/main/day29_deviations)
+- [juliamuellerfr](https://twitter.com/JuliaMuellerFr) - [link](https://twitter.com/JuliaMuellerFr/status/1388225146104815620?s=20) - [code](https://t.co/XdAmSzAQ82?amp=1)
 
 ## Day 30
 
 2021-04-30 | 3D
 
+<img src="figs/MBozukova_day30.gif" width="500">
+
 - [elartedeldato](https://twitter.com/elartedeldato) - [link](https://twitter.com/elartedeldato/status/1388025326320726020?s=20)
 - [fgazzelloni](https://twitter.com/FGazzelloni) - [link](https://twitter.com/FGazzelloni/status/1388536479731826689) - [code](https://github.com/Fgazzelloni/rstats-chart-challenge-2021/tree/main/day30_3D)
+- [claudiodanielpc](https://twitter.com/claudiodanielpc) - [link](https://twitter.com/claudiodanielpc/status/1388126742796070925?s=20) - [code](https://t.co/PAnqm84SUI?amp=1)
+- [sianbladon](https://twitter.com/sianbladon) - [link](https://twitter.com/sianbladon/status/1388161444131262466?s=20) - [code](https://t.co/g90yOaoyQG?amp=1)
+- [jakekaupp](https://twitter.com/jakekaupp) - [link](https://twitter.com/jakekaupp/status/1388240497207123968?s=20) - [code](https://t.co/H0RsYGnw5E?amp=1)
+- [mbozukova](https://twitter.com/MBozukova) - [link](https://twitter.com/MBozukova/status/1388179644768210949?s=20)
+- [juliamuellerfr](https://twitter.com/JuliaMuellerFr) - [link](https://twitter.com/JuliaMuellerFr/status/1388228589330391044?s=20) - [code](https://t.co/lz5O9whHHI?amp=1) 
+
 
